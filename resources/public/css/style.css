@@ -11,7 +11,9 @@
 }
 .bannerParentClass{
     position: relative;
-    top: -20px;
+}
+.bannerBackground .container {
+  padding-right: 12%;
 }
 .bannerBackground{
     background-image: url("/img/background.jpg");
@@ -19,6 +21,7 @@
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
+    margin-top: -25px;
 }
 .engineerClass {
     position: absolute;
@@ -85,7 +88,7 @@
 }
 .bannerContainer{
     padding-right: 15%;
-    
+
 }
 .logo{
     height: 28px;
@@ -154,7 +157,10 @@
 }
 .ui.secondary.menu a.item:hover {
     background: rgba(0,0,0,.05);
-    color: rgb(172, 134, 252) !important;
+    color: transparent;
+}
+.ui.secondary.menu .dropdown.item:hover {
+    color: transparent !important;
 }
 .ui.menu .ui.dropdown .menu>.item{
     transition: 0.2s !important;
@@ -163,19 +169,187 @@
     transform: scale(1.1) !important;
     background-color: #ffffff !important;
     border-color: rgba(3,27,78,.1);
-    box-shadow: 0 2px 4px rgba(3,27,78,.06);
+    box-shadow: 2px 2px 2px 2px rgba(3,27,78,.06) !important;
 }
 .navbar-Koompi img{
-    width: 2.5em !important;
-    max-height: 2.5em !important;
+    width: 2.0em !important;
+    max-height: 2.0em !important;
 }
-.productsDropdown{
+/* .productsDropdown{
     margin-left: -22px !important;
-}
+} */
 .navbar-Koompi span{
     font-size: 16px;
     position: relative;
-    top: 10px;
+    top: 6px;
     left: 0px;
     /* font-weight: bold; */
+}
+.navbar-white .item{
+  color: #333333 !important;
+}
+.navbar-purple .item{
+  color: #ffffff !important;
+}
+.backgroundBannerKosmos{
+  background-image: linear-gradient(to top, #3f1f60 0%, #522a71 100%);
+  height: 70vh;
+  position: relative;
+}
+.white{
+  color: #ffffff !important;
+}
+.black {
+  color: #333333 !important;
+}
+.contentCenter .kosmosCenter{
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: #ffffff;
+}
+.contentCenter .tutorialCenter{
+  margin: 0;
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: #ffffff;
+  width: 40%;
+}
+.contentCenter h1 {
+  font-size: 40px !important;
+}
+.paddingParagraph{
+  padding: 0px 10%;
+  font-size: 20px;
+}
+.contentCenter img{
+  height: 80px;
+}
+.ui.button {
+  font-weight: 400 !important;
+  position: relative;
+  top: 20px;
+}
+.kosmosConent{
+  padding: 5% 0px;
+  text-align: center;
+}
+.kosmosConent h1{
+  color: #3f1f60;
+  font-size: 36px;
+  margin: 0px;
+}
+.kosmosConent p{
+  padding: 40px 10%;
+  font-size: 18px;
+}
+.ui.menu span {
+  color: #b0b0b1;
+  font-weight: normal;
+}
+.ui.menu .item>p:first-child {
+    margin-top: 0;
+    color: #5e35b1 !important;
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+.ui.vertical.menu {
+    width: auto;
+}
+.ui.secondary.vertical.pointing.menu .active.item {
+    border-color: #5e35b1;
+    background-color: #f2f2f2;
+}
+
+.ui.vertical.pointing.menu .item {
+    border-bottom: none;
+    border-left-style: solid;
+    border-right-color: transparent;
+    border-radius: 0!important;
+    margin: 0 -2px 0 0;
+    border-right-width: 2px;
+}
+.ui.secondary.vertical.pointing.menu {
+    border-bottom-width: 0;
+    border-right-width: 0;
+    border-right-style: solid;
+    border-right-color: transparent;
+}
+.ui.secondary.vertical.pointing.menu {
+    border-bottom-width: 2;
+    border-left-width: 2;
+    border-left-style: solid;
+    border-left-color: transparent;
+}
+.ui.secondary.vertical.pointing.menu .item {
+      border-right-style: none;
+      border-left: 3px solid #f5f5f5;
+}
+.ui.dropdown .menu{
+  display: inline-block !important;
+}
+.ui.menu .pointing.dropdown.item .menu{
+  transition: 1s !important;
+}
+.navbar-Koompi span{
+  color: #321653 !important;
+}
+.ui.menu:not(.vertical) .right.item, .ui.menu:not(.vertical) .right.menu{
+  font-size: 18px !important;
+}
+.ui.menu .text{
+  color: #ffffff !important;
+}
+.ui.menu .dropdown.item .menu{
+  background: #eae8e8 !important;
+}
+.ui.pointing.dropdown>.menu:after{
+  background: #eae8e8 !important;
+}
+.tutorialBanner{
+  background-image: linear-gradient(to top, #693b8e 0%, #321653 100%);
+  height: 55vh;
+  position: relative;
+  margin-top: -1px;
+  color: #fff;
+}
+.widthTutorail .input{
+  width: 100% !important;
+}
+.widthTutorail .input input{
+  padding: 20px !important;
+  font-size: 18px;
+}
+.tutorialCenter h1{
+  font-size: 60px !important;
+}
+.tutorialCenter p{
+  font-size: 20px !important;
+  width: 60%;
+  margin: 0px auto;
+  margin-bottom: 40px;
+}
+.tutorialContent{
+  margin: 0px !important;
+  padding: 40px;
+}
+.totalTutorial{
+  color: #65388a;
+}
+.ui.grid>.removePadding{
+  padding-left: 0px !important;
+  font-size: 18px;
+}
+.tutorialSize{
+  font-size: 14px;
+  position: relative;
+  top: -10px;
+  color: #8a8a8a;
+  padding-right: 30px;
 }

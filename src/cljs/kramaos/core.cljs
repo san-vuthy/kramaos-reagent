@@ -4,8 +4,33 @@
               [reitit.frontend :as reitit]
               [clerk.core :as clerk]
               [accountant.core :as accountant]
-              [kramaos.components.navbar :refer [navbar]]
-              [kramaos.components.index :refer [index]]))
+              ; navbar
+              [kramaos.components.navbar :refer [community-menu products-menu]]
+              ; footer
+              [kramaos.components.footer :refer [footer]]
+              ; home page
+              [kramaos.components.index :refer [index]]
+              ; kosmos page
+              [kramaos.components.kosmos :refer [kosmos]]
+              ; turtorial page
+              [kramaos.components.tutorials :refer [tutorial]]))
+
+; =================================
+;; navbar
+
+(defn kosmos-navbar
+  [backgroundColor logo classColor color]
+  [:div {:class "menuBack" :style {:backgroundColor backgroundColor}}
+      [:div {:class "ui secondary container menu "}
+          [:a {:href "/"}
+              [:img {:src logo :class "ui middle aligned image logo"}]]
+          [:div.right.menu.navbar {:class classColor}
+              (community-menu color)
+              (products-menu color)
+              [:a {:class "item"} "Contact Us"]]]])
+
+
+
 
 ;; -------------------------
 ;; Routes
@@ -13,10 +38,9 @@
 (def router
   (reitit/router
    [["/" :index]
-    ["/items"
-     ["" :items]
-     ["/:item-id" :item]]
-    ["/about" :about]]))
+    ["/kosmos" :kosmos]
+    ["/tutorials" :tutorials]]))
+
 
 (defn path-for [route & [params]]
   (if params
@@ -29,32 +53,25 @@
 
 (defn home-page []
   (fn []
-     [index]))
+      [:div
+       (kosmos-navbar "#321653" "/img/logo/logo-white.png" "navbar-purple" "white")
+       (index)]))
 
-
-
-(defn items-page []
+(defn kosmos-page []
   (fn []
-    [:span.main
-     [:h1 "The items of kramaos"]
-     [:ul (map (fn [item-id]
-                 [:li {:name (str "item-" item-id) :key (str "item-" item-id)}
-                  [:a {:href (path-for :item {:item-id item-id})} "Item: " item-id]])
-               (range 1 60))]]))
+     [:div
+      (kosmos-navbar "#fff" "/img/logo/logo-purple.png" "navbar-white" "black")
+      (kosmos)]))
 
-
-(defn item-page []
+(defn tutorials-page []
   (fn []
-    (let [routing-data (session/get :route)
-          item (get-in routing-data [:route-params :item-id])]
-      [:span.main
-       [:h1 (str "Item " item " of kramaos")]
-       [:p [:a {:href (path-for :items)} "Back to the list of items"]]])))
+     [:div
+      (kosmos-navbar "#321653" "/img/logo/logo-white.png" "navbar-purple" "white")
+      [tutorial "BROS PANHA PLOCK"]]))
 
-
-(defn about-page []
-  (fn [] [:span.main
-          [:h1 "About kramaos"]]))
+(defn admin-page []
+  (fn []
+     [:h1 "Hello World"]))
 
 
 ;; -------------------------
@@ -63,9 +80,9 @@
 (defn page-for [route]
   (case route
     :index #'home-page
-    :about #'about-page
-    :items #'items-page
-    :item #'item-page))
+    :kosmos #'kosmos-page
+    :tutorials #'tutorials-page
+    :admin #'admin-page))
 
 
 ;; -------------------------
@@ -76,32 +93,11 @@
     (let [page (:current-page (session/get :route))]
       [:div
        [:header
-        [navbar]
         [page]
-        [:div {:class "ui inverted vertical footer segment"}
-          [:div {:class "ui center aligned container"}
-            [:img {:src "img/logo/footer-logo.png", :class "ui centered image footerImage"}]
-            [:p "Copyright © 2018 KOSMOS by KOOMPI"]
-            [:div {:class "ui horizontal inverted link list"}]
-            [:a {:class "item", :href "#"} "Site Map"]
-            [:a {:class "item", :href "#"} "Contact Us"]
-            [:a {:class "item", :href "#"} "Terms and Conditions"]
-            [:a {:class "item", :href "#"} "Privacy Policy"]
-            [:div {:class "ui inverted section divider"}]]
-          [:div {:class "ui container"}
-            [:div {:class "ui stackable two column grid"}]
-            [:div {:class "column"}
-              [:div {:class "ui horizontal inverted link list"}
-                [:a {:class "item", :href "#"} "Site Map"]
-                [:a {:class "item", :href "#"} "Contact Us"]]]
-            [:div {:class "column"}
-              [:div {:class "ui horizontal inverted link list right floated"}
-                [:a {:class "item", :href "#"} "Site Map"]
-                [:a {:class "item", :href "#"} "Contact Us"]]]]]]])))
+        [footer]]])))
 
-        ;; -------------------------
-        ;; Initialize app
-
+;; -------------------------
+;; Initialize app
 (defn mount-root []
   (reagent/render [current-page] (.getElementById js/document "app")))
 

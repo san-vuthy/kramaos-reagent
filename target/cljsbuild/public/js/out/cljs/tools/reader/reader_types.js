@@ -645,8 +645,8 @@ return (new cljs.tools.reader.reader_types.StringReader(s,cljs.core.count.call(n
  * Creates a PushbackReader from a given string
  */
 cljs.tools.reader.reader_types.string_push_back_reader = (function cljs$tools$reader$reader_types$string_push_back_reader(var_args){
-var G__34298 = arguments.length;
-switch (G__34298) {
+var G__34797 = arguments.length;
+switch (G__34797) {
 case 1:
 return cljs.tools.reader.reader_types.string_push_back_reader.cljs$core$IFn$_invoke$arity$1((arguments[(0)]));
 
@@ -678,8 +678,8 @@ return (new cljs.tools.reader.reader_types.PushbackReader((new cljs.tools.reader
  * Creates an IndexingPushbackReader from a given string or PushbackReader
  */
 cljs.tools.reader.reader_types.indexing_push_back_reader = (function cljs$tools$reader$reader_types$indexing_push_back_reader(var_args){
-var G__34301 = arguments.length;
-switch (G__34301) {
+var G__34800 = arguments.length;
+switch (G__34800) {
 case 1:
 return cljs.tools.reader.reader_types.indexing_push_back_reader.cljs$core$IFn$_invoke$arity$1((arguments[(0)]));
 
@@ -716,8 +716,8 @@ cljs.tools.reader.reader_types.indexing_push_back_reader.cljs$lang$maxFixedArity
  * Creates a SourceLoggingPushbackReader from a given string or PushbackReader
  */
 cljs.tools.reader.reader_types.source_logging_push_back_reader = (function cljs$tools$reader$reader_types$source_logging_push_back_reader(var_args){
-var G__34304 = arguments.length;
-switch (G__34304) {
+var G__34803 = arguments.length;
+switch (G__34803) {
 case 1:
 return cljs.tools.reader.reader_types.source_logging_push_back_reader.cljs$core$IFn$_invoke$arity$1((arguments[(0)]));
 
@@ -760,10 +760,10 @@ while(true){
 if(cljs.tools.reader.impl.utils.newline_QMARK_.call(null,c)){
 return cljs.core.str.cljs$core$IFn$_invoke$arity$1(s);
 } else {
-var G__34306 = cljs.tools.reader.reader_types.read_char.call(null,rdr);
-var G__34307 = s.append(c);
-c = G__34306;
-s = G__34307;
+var G__34805 = cljs.tools.reader.reader_types.read_char.call(null,rdr);
+var G__34806 = s.append(c);
+c = G__34805;
+s = G__34806;
 continue;
 }
 break;
@@ -795,4 +795,4 @@ return ret;
 }finally {cljs.core.swap_BANG_.call(null,reader.frames,cljs.core.update_in,new cljs.core.PersistentVector(null, 1, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"offset","offset",296498311)], null),cljs.core.rest);
 }});
 
-//# sourceMappingURL=reader_types.js.map?rel=1545637592056
+//# sourceMappingURL=reader_types.js.map?rel=1545662643210
