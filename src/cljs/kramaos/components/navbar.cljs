@@ -31,7 +31,11 @@
      [:a {:class "item navbar-Koompi" :href "/tutorials"}
       [:img {:src "img/icons/turtorial-01.svg"}]
       [:span "Tutorials"]]
+<<<<<<< HEAD
      [:a {:class "item navbar-Koompi" :href "https://forum.koompi.com/" :target "_blank"}
+=======
+     [:a {:class "item navbar-Koompi" :href "#"}
+>>>>>>> b13ac25a6eaae136e81e8dce78fd75a9a694e45b
       [:img {:src "img/icons/faq-01.svg"}]
       [:span "Question and Answer"]]
      [:a {:class "item navbar-Koompi" :href "#"}

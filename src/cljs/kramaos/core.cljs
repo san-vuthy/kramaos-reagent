@@ -13,9 +13,13 @@
               ; kosmos page
               [kramaos.components.kosmos :refer [kosmos]]
               ; turtorial page
+<<<<<<< HEAD
               [kramaos.components.tutorials :refer [tutorial]]
               ; single-tutorial-page
               [kramaos.components.single-tutorial :refer [single-tutorial]]))
+=======
+              [kramaos.components.tutorials :refer [tutorial]]))
+>>>>>>> b13ac25a6eaae136e81e8dce78fd75a9a694e45b
 
 ; =================================
 ;; navbar
@@ -41,8 +45,12 @@
   (reitit/router
    [["/" :index]
     ["/kosmos" :kosmos]
+<<<<<<< HEAD
     ["/tutorials" :tutorials]
     ["/single-tutorial" :single-tutorial-page]]))
+=======
+    ["/tutorials" :tutorials]]))
+>>>>>>> b13ac25a6eaae136e81e8dce78fd75a9a694e45b
 
 
 (defn path-for [route & [params]]
@@ -66,6 +74,7 @@
       (kosmos-navbar "#fff" "/img/logo/logo-purple.png" "navbar-white" "black")
       (kosmos)]))
 
+<<<<<<< HEAD
 (defn single-tutorial-page []
   (fn []
      [:div
@@ -77,6 +86,13 @@
      [:div
       (kosmos-navbar "#fff" "/img/logo/logo-purple.png" "navbar-white" "black")
       (tutorial)]))
+=======
+(defn tutorials-page []
+  (fn []
+     [:div
+      (kosmos-navbar "#321653" "/img/logo/logo-white.png" "navbar-purple" "white")
+      [tutorial "BROS PANHA PLOCK"]]))
+>>>>>>> b13ac25a6eaae136e81e8dce78fd75a9a694e45b
 
 (defn admin-page []
   (fn []
@@ -91,7 +107,10 @@
     :index #'home-page
     :kosmos #'kosmos-page
     :tutorials #'tutorials-page
+<<<<<<< HEAD
     :single-tutorial-page #'single-tutorial-page
+=======
+>>>>>>> b13ac25a6eaae136e81e8dce78fd75a9a694e45b
     :admin #'admin-page))
 
 

@@ -4422,6 +4422,7 @@ notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/com
 Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
 [32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.31 seconds.[0m
 notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/tutorials.js
+<<<<<<< HEAD
 Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
 [32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 5.537 seconds.[0m
 notifying browser that file changed:  target/cljsbuild/public/js/out/goog/deps.js
@@ -4708,3 +4709,5 @@ notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/com
 Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
 [32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 5.955 seconds.[0m
 notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/single_tutorial.js
+=======
+>>>>>>> b13ac25a6eaae136e81e8dce78fd75a9a694e45b
