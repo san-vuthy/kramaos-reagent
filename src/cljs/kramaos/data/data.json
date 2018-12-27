@@ -1,0 +1,40 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "title": "Complete Open Source from the box",
+      "image": "img/icons/kosmos_open_source.svg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis bibendum eget dolor eu ultricies."
+    },
+    {
+      "id": 2,
+      "title": "Dually Build-in Desktop Support",
+      "image": "img/icons/kosmos_dually_build_in.svg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis bibendum eget dolor eu ultricies."
+    },
+    {
+      "id": 3,
+      "title": "Freindly Development Enviroment",
+      "image": "img/icons/kosmos_user_friednly.svg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis bibendum eget dolor eu ultricies."
+    },
+    {
+      "id": 4,
+      "title": "Build-in Container Host Enviroment",
+      "image": "img/icons/kosmos_docker.svg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis bibendum eget dolor eu ultricies."
+    },
+    {
+      "id": 5,
+      "title": "Build-in Security at No Cost",
+      "image": "img/icons/kosmos_security.svg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis bibendum eget dolor eu ultricies."
+    },
+    {
+      "id": 6,
+      "title": "Spilly Performance",
+      "image": "img/icons/kosmos_performance.svg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis bibendum eget dolor eu ultricies."
+    },
+  ]
+}

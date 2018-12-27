@@ -16,6 +16,7 @@
                   :scope "provided"]
                  [metosin/reitit "0.2.9"]
                  [pez/clerk "1.0.0"]
+                 [org.clojure/data.json "0.2.6"]
                  [venantius/accountant "0.2.4"
                   :exclusions [org.clojure/tools.reader]]]
 
@@ -65,15 +66,15 @@
 
 
 
-            
-   
+
+
 
   :figwheel
   {:http-server-root "public"
    :server-port 3449
    :nrepl-port 7002
    :nrepl-middleware [cider.piggieback/wrap-cljs-repl]
-                      
+
    :css-dirs ["resources/public/css"]
    :ring-handler kramaos.handler/app}
 
@@ -88,8 +89,8 @@
                                   [figwheel-sidecar "0.5.17"]
                                   [nrepl "0.4.5"]
                                   [pjstadig/humane-test-output "0.9.0"]]
-                                  
- 
+
+
 
                    :source-paths ["env/dev/clj"]
                    :plugins [[lein-figwheel "0.5.17"]]

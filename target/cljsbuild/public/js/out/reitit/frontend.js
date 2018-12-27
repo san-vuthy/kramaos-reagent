@@ -11,8 +11,8 @@ goog.require('goog.Uri');
 reitit.frontend.query_params = (function reitit$frontend$query_params(uri){
 var q = uri.getQueryData();
 return cljs.core.into.call(null,cljs.core.PersistentArrayMap.EMPTY,cljs.core.map.call(null,cljs.core.juxt.call(null,cljs.core.keyword,((function (q){
-return (function (p1__33954_SHARP_){
-return q.get(p1__33954_SHARP_);
+return (function (p1__33955_SHARP_){
+return q.get(p1__33955_SHARP_);
 });})(q))
 ),q.getKeys()));
 });
@@ -45,8 +45,8 @@ return null;
  *   or `nil` (no match).
  */
 reitit.frontend.match_by_name = (function reitit$frontend$match_by_name(var_args){
-var G__33956 = arguments.length;
-switch (G__33956) {
+var G__33957 = arguments.length;
+switch (G__33957) {
 case 2:
 return reitit.frontend.match_by_name.cljs$core$IFn$_invoke$arity$2((arguments[(0)]),(arguments[(1)]));
 
@@ -76,8 +76,8 @@ reitit.frontend.match_by_name.cljs$lang$maxFixedArity = 3;
  *   Enables request coercion. See [[reitit.core/router]] for details on options.
  */
 reitit.frontend.router = (function reitit$frontend$router(var_args){
-var G__33959 = arguments.length;
-switch (G__33959) {
+var G__33960 = arguments.length;
+switch (G__33960) {
 case 1:
 return reitit.frontend.router.cljs$core$IFn$_invoke$arity$1((arguments[(0)]));
 
@@ -106,8 +106,8 @@ reitit.frontend.router.cljs$lang$maxFixedArity = 2;
  * Logs problems using console.warn
  */
 reitit.frontend.match_by_name_BANG_ = (function reitit$frontend$match_by_name_BANG_(var_args){
-var G__33963 = arguments.length;
-switch (G__33963) {
+var G__33964 = arguments.length;
+switch (G__33964) {
 case 2:
 return reitit.frontend.match_by_name_BANG_.cljs$core$IFn$_invoke$arity$2((arguments[(0)]),(arguments[(1)]));
 
@@ -132,8 +132,8 @@ if(cljs.core.truth_(temp__5455__auto__)){
 var match = temp__5455__auto__;
 if(reitit.core.partial_match_QMARK_.call(null,match)){
 if(cljs.core.every_QMARK_.call(null,((function (match,temp__5455__auto__){
-return (function (p1__33961_SHARP_){
-return cljs.core.contains_QMARK_.call(null,path_params,p1__33961_SHARP_);
+return (function (p1__33962_SHARP_){
+return cljs.core.contains_QMARK_.call(null,path_params,p1__33962_SHARP_);
 });})(match,temp__5455__auto__))
 ,new cljs.core.Keyword(null,"required","required",1807647006).cljs$core$IFn$_invoke$arity$1(match))){
 return match;
@@ -157,4 +157,4 @@ return null;
 reitit.frontend.match_by_name_BANG_.cljs$lang$maxFixedArity = 3;
 
 
-//# sourceMappingURL=frontend.js.map?rel=1545637590870
+//# sourceMappingURL=frontend.js.map?rel=1545662210573

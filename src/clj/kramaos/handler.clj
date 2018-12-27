@@ -16,7 +16,7 @@
    [:meta {:name "viewport"
            :content "width=device-width, initial-scale=1"}]
    (include-css (if (env :dev) "https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/components/icon.min.css" "/css/site.min.css"))
-   (include-css (if (env :dev) "https://cdn.jsdelivr.net/npm/semantic-ui@2.4.2/dist/semantic.min.css" "/css/site.min.css"))
+   (include-css (if (env :dev) "/css/semantic.min.css" "/css/site.min.css"))
    (include-css (if (env :dev) "/css/style.css" "/css/site.min.css"))])
 
 (defn loading-page []
@@ -36,11 +36,10 @@
   (reitit-ring/ring-handler
    (reitit-ring/router
     [["/" {:get {:handler index-handler}}]
-     ["/items"
-      ["" {:get {:handler index-handler}}]
-      ["/:item-id" {:get {:handler index-handler
-                          :parameters {:path {:item-id int?}}}}]]
-     ["/about" {:get {:handler index-handler}}]]
+     ["/kosmos" {:get {:handler index-handler}}]
+     ["/tutorials" {:get {:handler index-handler}}]
+     ["/single-tutorial" {:get {:handler index-handler}}]
+     ["/admin" {:get {:handler index-handler}}]]
     {:data {:middleware middleware}})
    (reitit-ring/routes
     (reitit-ring/create-resource-handler {:path "/" :root "/public"})
