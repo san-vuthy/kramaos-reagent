@@ -41,6 +41,7 @@ goog.addDependency("../reitit/segment.js", ['reitit.segment'], ['reitit.impl', '
 goog.addDependency("../accountant/core.js", ['accountant.core'], ['goog.history.Event', 'goog.Uri', 'cljs.core', 'goog.history.EventType', 'goog.history.Html5History', 'clojure.string', 'goog.events']);
 goog.addDependency("../reagent/debug.js", ['reagent.debug'], ['cljs.core']);
 goog.addDependency("../devtools/protocols.js", ['devtools.protocols'], ['cljs.core']);
+goog.addDependency("../kramaos/components/contact.js", ['kramaos.components.contact'], ['cljs.core']);
 goog.addDependency("../clerk/core.js", ['clerk.core'], ['goog.dom', 'goog.Uri', 'cljs.core', 'cljs.core.async', 'goog.events.EventType', 'goog.fx.dom', 'goog.style', 'goog.events']);
 goog.addDependency("../reagent/interop.js", ['reagent.interop'], ['cljs.core']);
 goog.addDependency("../reagent/impl/util.js", ['reagent.impl.util'], ['reagent.interop', 'cljs.core', 'reagent.debug', 'clojure.string']);
@@ -62,16 +63,10 @@ goog.addDependency("../reitit/frontend.js", ['reitit.frontend'], ['goog.Uri', 'c
 goog.addDependency("../kramaos/data/cards.js", ['kramaos.data.cards'], ['reagent.core', 'cljs.core']);
 goog.addDependency("../kramaos/components/kosmos.js", ['kramaos.components.kosmos'], ['kramaos.data.cards', 'reagent.core', 'cljs.core']);
 goog.addDependency("../kramaos/components/navbar.js", ['kramaos.components.navbar'], ['reagent.core', 'cljs.core']);
-<<<<<<< HEAD
-goog.addDependency("../kramaos/components/single_tutorial.js", ['kramaos.components.single_tutorial'], ['cljs.core']);
-goog.addDependency("../kramaos/components/index.js", ['kramaos.components.index'], ['kramaos.data.cards', 'reagent.core', 'cljs.core']);
+goog.addDependency("../kramaos/data/blogs.js", ['kramaos.data.blogs'], ['reagent.core', 'cljs.core']);
+goog.addDependency("../kramaos/components/index.js", ['kramaos.components.index'], ['kramaos.data.cards', 'reagent.core', 'cljs.core', 'kramaos.components.kosmos', 'kramaos.data.blogs']);
 goog.addDependency("../kramaos/components/tutorials.js", ['kramaos.components.tutorials'], ['cljs.core']);
-goog.addDependency("../kramaos/core.js", ['kramaos.core'], ['clerk.core', 'reagent.session', 'kramaos.components.footer', 'reagent.core', 'cljs.core', 'reitit.frontend', 'kramaos.components.kosmos', 'accountant.core', 'kramaos.components.navbar', 'kramaos.components.single_tutorial', 'kramaos.components.index', 'kramaos.components.tutorials']);
-=======
-goog.addDependency("../kramaos/components/index.js", ['kramaos.components.index'], ['kramaos.data.cards', 'reagent.core', 'cljs.core']);
-goog.addDependency("../kramaos/components/tutorials.js", ['kramaos.components.tutorials'], ['cljs.core']);
-goog.addDependency("../kramaos/core.js", ['kramaos.core'], ['clerk.core', 'reagent.session', 'kramaos.components.footer', 'reagent.core', 'cljs.core', 'reitit.frontend', 'kramaos.components.kosmos', 'accountant.core', 'kramaos.components.navbar', 'kramaos.components.index', 'kramaos.components.tutorials']);
->>>>>>> b13ac25a6eaae136e81e8dce78fd75a9a694e45b
+goog.addDependency("../kramaos/core.js", ['kramaos.core'], ['kramaos.components.contact', 'clerk.core', 'reagent.session', 'kramaos.components.footer', 'reagent.core', 'cljs.core', 'reitit.frontend', 'kramaos.components.kosmos', 'accountant.core', 'kramaos.components.navbar', 'kramaos.components.index', 'kramaos.components.tutorials']);
 goog.addDependency("../devtools/format.js", ['devtools.format'], ['cljs.core', 'devtools.context']);
 goog.addDependency("../devtools/munging.js", ['devtools.munging'], ['cljs.core', 'goog.object', 'goog.string.StringBuffer', 'devtools.context', 'clojure.string']);
 goog.addDependency("../devtools/formatters/helpers.js", ['devtools.formatters.helpers'], ['cljs.core', 'devtools.protocols', 'devtools.format', 'devtools.prefs', 'devtools.munging']);

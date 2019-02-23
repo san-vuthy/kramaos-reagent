@@ -5,7 +5,7 @@
               [clerk.core :as clerk]
               [accountant.core :as accountant]
               ; navbar
-              [kramaos.components.navbar :refer [community-menu products-menu]]
+              [kramaos.components.navbar :refer [community-menu products-menu products]]
               ; footer
               [kramaos.components.footer :refer [footer]]
               ; home page
@@ -13,16 +13,45 @@
               ; kosmos page
               [kramaos.components.kosmos :refer [kosmos]]
               ; turtorial page
-<<<<<<< HEAD
               [kramaos.components.tutorials :refer [tutorial]]
-              ; single-tutorial-page
-              [kramaos.components.single-tutorial :refer [single-tutorial]]))
-=======
-              [kramaos.components.tutorials :refer [tutorial]]))
->>>>>>> b13ac25a6eaae136e81e8dce78fd75a9a694e45b
+              ;contact
+              [kramaos.components.contact :refer [contact]]))
 
 ; =================================
 ;; navbar
+
+(def menu (atom {:menu false}))
+(defn menuToggle
+  []
+  (swap! menu assoc :menu (not (get-in @menu [:menu]))))
+
+(defn bars-icon
+  []
+  [:a {:class "item bars-icon" :href "#" :onClick #(menuToggle)} (if (get-in @menu [:menu])[:i {:class "times icon"}] [:i {:class "bars icon"}])])
+
+(defn sideMenu
+  [animation]
+  [:div.animated.ui.left.vertical.inverted.labeled.icon.sidebar.menu.overlay.visible {:class animation}
+   [:div {:class "item"}
+        [:div {:class "header"} "Products"]
+        [:div {:class "menu"}
+         [:a {:class "item" :href "https://koompi.com/" :target "_blank"} "Hardware-Koompi"]
+         [:a {:class "item" :href "/kosmos"} "OS-kosmos"]]]
+   [:div {:class "item"}
+        [:div {:class "header"} "Community"]
+        [:div {:class "menu"}
+         [:a {:class "item" :href "https://forum.koompi.com/" :target "_blank"} "Question and Answer"]
+         [:a {:class "item" :href "https://lab.krama.org" :target "_blank"} "Projects"]]]
+   [:div {:class "item"}
+        [:div {:class "header" :href "/contact"} "Contact"]]])
+
+(defn menuToggleIcon
+  []
+  (if (get-in @menu [:menu])
+      (sideMenu "slideInLeft")
+      (sideMenu "slideOutLeft")))
+
+
 
 (defn kosmos-navbar
   [backgroundColor logo classColor color]
@@ -33,9 +62,9 @@
           [:div.right.menu.navbar {:class classColor}
               (community-menu color)
               (products-menu color)
-              [:a {:class "item"} "Contact Us"]]]])
-
-
+              [:a {:class "item computer or lower hidden" :href "/contact"} "Contact Us"]
+              (menuToggleIcon)
+              (bars-icon)]]])
 
 
 ;; -------------------------
@@ -45,12 +74,8 @@
   (reitit/router
    [["/" :index]
     ["/kosmos" :kosmos]
-<<<<<<< HEAD
     ["/tutorials" :tutorials]
-    ["/single-tutorial" :single-tutorial-page]]))
-=======
-    ["/tutorials" :tutorials]]))
->>>>>>> b13ac25a6eaae136e81e8dce78fd75a9a694e45b
+    ["/contact" :contact]]))
 
 
 (defn path-for [route & [params]]
@@ -74,25 +99,17 @@
       (kosmos-navbar "#fff" "/img/logo/logo-purple.png" "navbar-white" "black")
       (kosmos)]))
 
-<<<<<<< HEAD
-(defn single-tutorial-page []
-  (fn []
-     [:div
-      (kosmos-navbar "#321653" "/img/logo/logo-white.png" "navbar-purple" "white")
-      (single-tutorial)]))
-
-(defn tutorials-page []
-  (fn []
-     [:div
-      (kosmos-navbar "#fff" "/img/logo/logo-purple.png" "navbar-white" "black")
-      (tutorial)]))
-=======
 (defn tutorials-page []
   (fn []
      [:div
       (kosmos-navbar "#321653" "/img/logo/logo-white.png" "navbar-purple" "white")
       [tutorial "BROS PANHA PLOCK"]]))
->>>>>>> b13ac25a6eaae136e81e8dce78fd75a9a694e45b
+
+(defn contact-page []
+  (fn []
+     [:div
+      (kosmos-navbar "#321653" "/img/logo/logo-white.png" "navbar-purple" "white")
+      [contact]]))
 
 (defn admin-page []
   (fn []
@@ -107,10 +124,7 @@
     :index #'home-page
     :kosmos #'kosmos-page
     :tutorials #'tutorials-page
-<<<<<<< HEAD
-    :single-tutorial-page #'single-tutorial-page
-=======
->>>>>>> b13ac25a6eaae136e81e8dce78fd75a9a694e45b
+    :contact #'contact-page
     :admin #'admin-page))
 
 

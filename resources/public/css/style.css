@@ -14,6 +14,7 @@
 }
 .bannerBackground .container {
   padding-right: 12%;
+  margin: 0px auto !important;
 }
 .bannerBackground{
     background-image: url("/img/background.jpg");
@@ -80,6 +81,7 @@
     text-transform: inherit;
     font-size: 60px;
     padding-top: 10% !important;
+
 }
 .bannerDescription{
     color: #ffffff;
@@ -88,7 +90,7 @@
 }
 .bannerContainer{
     padding-right: 15%;
-
+    margin: 0px auto !important;
 }
 .logo{
     height: 28px;
@@ -112,7 +114,13 @@
 }
 .blur p {
     font-size: 16px;
-    text-align: center;
+    text-align: left;
+}
+a{
+  color: #333;
+}
+a:hover{
+  color: #333;
 }
 
 .section2Banner{
@@ -352,4 +360,436 @@
   top: -10px;
   color: #8a8a8a;
   padding-right: 30px;
+}
+
+.Contact_Title {
+  padding-top: 50px;
+}
+.containerContact {
+  max-width: 50% !important;
+  margin: 50px !important;
+}
+
+.formContact{
+  padding: 50px 0px;
+}
+.form{
+  width: 60%;
+  margin: auto;
+}
+
+
+.form input {
+  border: 1px solid rgba(50, 22, 83, 0.75) !important;
+}
+
+
+
+.form textarea{
+  border: 1px solid rgba(50, 22, 83, 0.75) !important;
+}
+
+.ui .positive .button {
+    padding: 12px 10%;
+}
+.btnme {
+  padding: 12px 10% !important;
+  margin-top: -20px !important;
+}
+.containerPress .Contact_Desc{
+  font-weight: 500;
+  font-size: 18px;
+}
+
+.Contact_Title{
+  color: #321653;
+  font-size: 36px;
+}
+.bars-icon{
+  display: none !important;
+}
+.ui.menu:not(.vertical) :not(.dropdown)>.left.menu{
+  display: none;
+}
+
+@keyframes slideInLeft {
+  from {
+    -webkit-transform: translate3d(-100%, 0, 0);
+    transform: translate3d(-100%, 0, 0);
+    visibility: visible;
+  }
+
+  to {
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+.slideInLeft {
+  -webkit-animation-name: slideInLeft;
+  animation-name: slideInLeft;
+}
+.animated {
+  -webkit-animation-duration: 0.5s;
+  animation-duration: 0.5s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+}
+
+@keyframes slideOutLeft {
+  from {
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+
+  to {
+    visibility: hidden;
+    -webkit-transform: translate3d(-100%, 0, 0);
+    transform: translate3d(-100%, 0, 0);
+  }
+}
+
+.slideOutLeft {
+  -webkit-animation-name: slideOutLeft;
+  animation-name: slideOutLeft;
+}
+
+@media only screen and (max-width: 1800px){
+  .ui.container {
+    width: 62% !important;
+    margin: 0px auto !important;
+  }
+  .engineerClass img {
+      width: 65%;
+  }
+  .engineerClass {
+    right: -180px;
+  }
+  .bannerTitle{
+    font-size: 40px;
+  }
+  .bannerDescription {
+      color: #ffffff;
+      font-size: 22px;
+      margin: 30px 0px;
+  }
+  .bannerBackground .container {
+    padding-right: 15%;
+  }
+  .engineerClass1 img {
+      width: 40%;
+      transform: rotateY(180deg);
+      margin-left: 75px;
+  }
+
+}
+@media only screen and (max-width: 1200px){
+  .bannerTitle {
+      font-size: 35px;
+      padding-left: 0;
+      text-align: left;
+  }
+  .bannerDescription {
+      padding-left: 0px;
+  }
+  .engineerClass1 img {
+      width: 30%;
+  }
+  .engineerClass{
+    right: -216px;
+  }
+  .engineerClass img {
+      width: 59%;
+  }
+  .ui.container {
+    width: 90% !important;
+    margin: 0px auto !important;
+  }
+  .engineerClass img{
+    display: none !important;
+  }
+  .bannerBackground .container{
+    padding: 0px 13%;
+  }
+  .bars-icon{
+    display: block !important;
+  }
+  .ui.menu:not(.vertical) :not(.dropdown)>.left.menu{
+    display: flex;
+    width: 30%;
+    background-color: rgb(50, 22, 83)
+
+  }
+  .ui.labeled.icon.menu .item{
+    width: 100%;
+    text-align: left;
+  }
+  .engineerClass img {
+    width: 40% !important;
+
+}
+
+}
+
+@media only screen and (max-width: 979px){
+  .bannerTitle {
+      font-size: 32px;
+      padding-left: 0px;
+      text-align: left;
+  }
+  .bannerDescription {
+    padding-left: 0px;
+    text-align: left;
+  }
+  .bannerBackground .container {
+      padding-right: 0px;
+  }
+  .engineerClass1 img {
+      width: 0;
+      transform: 0;
+      margin-left: 0;
+
+  }
+  .engineerClass img {
+    width:0}
+
+  .contentCenter .tutorialCenter {
+    width: inherit;
+  }
+  .ui.menu:not(.vertical) .right.menu {
+      font-size: 15px !important;
+  }
+  .ui.container {
+      width: 85% !important;
+      margin: 0px auto !important;
+  }
+  .engineerClass img{
+    display: none !important;
+  }
+  .engineerClass1 img{
+    display: none !important;
+  }
+  .bannerBackground .container {
+    padding: 0px 0%;
+  }
+  .form{
+    width:80% !important;
+    margin-top: 40px;
+  }
+  .navbar-white .item {
+    color: #fff !important;
+  }
+  .ui.menu .item>i.icon{
+    color: #fff !important;
+    margin: 0px;
+    
+  }
+  .ui.secondary.menu a.item{
+    background-color: rgb(77, 39, 109);
+  }
+
+
+}
+
+@media only screen and (max-width: 767px) {
+  .bannerDescription {
+    padding-left: 70px;
+    text-align:justify;
+    font-size: 16px !important;
+  }
+
+  .engineerClass1 img {
+      width: 0;
+      transform: 0;
+      margin-left: 0;
+  }
+  .engineerClass img {
+    width:0
+  }
+  .tutorialCenter p {
+    font-size: 15px !important;
+    width: 100%;
+    margin: 0px auto;
+    margin-bottom: 40px;
+  }
+  .contentCenter h1 {
+    font-size: 30px !important;
+  }
+  .tutorialBanner{
+    height: 50vh !important;
+  }
+  .contentCenter .tutorialCenter {
+    width: inherit;
+  }
+  .bannerTitle {
+    font-size: 30px !important;
+    text-transform: inherit;
+    text-align: left;
+  }
+  .bannerDescription {
+    padding-left: 0px;
+    text-align: justify;
+    font-size: 16px !important;
+  }
+  .section1Desc {
+    font-size: 18px;
+    padding-bottom: 25px;
+    text-align: left;
+  }
+  .section1Title {
+    font-size: 30px;
+    padding: 60px 0px 30px 0px;
+    text-align: center;
+  }
+  .section2Banner {
+    background-image: url(/img/koompi-banner-1.png);
+    height: 500px;
+    background-position: center;
+    background-size: cover;
+    color: #ffffff;
+    text-align: center;
+    margin: 70px 0px;
+  }
+  .contentCenter .kosmosCenter {
+    margin: 0;
+    position: absolute;
+    top: 25px;
+    left: 0;
+    transform: translate(0%, 0%);
+    text-align: center;
+    color: #ffffff;
+  }
+  .kosmosConent h1 {
+    color: #3f1f60;
+    font-size: 30px;
+    margin: 0px;
+  }
+  .kosmosConent p {
+    padding: 15px 0px;
+    font-size: 18px;
+    text-align: left;
+  }
+  .ui.menu:not(.vertical) :not(.dropdown)>.left.menu {
+    display: flex;
+    width: 60%;
+    background-color: rgb(50, 22, 83);
+  }
+  .backgroundBannerKosmos {
+    height: 100vh;
+  }
+
+}
+
+@media only screen and (max-width: 480px) {
+  .bannerTitle {
+    font-size: 25px;
+    padding-left: 0px;
+    text-transform: inherit;
+    text-align: left;
+    font-size: 20px !important;
+  }
+  .section1Title {
+    font-size: 18px;
+    padding: 20px 0px 10px 0px;
+    text-align: center;
+  }
+  .section1Desc {
+    font-size: 18px;
+    padding-bottom: 25px;
+    text-align: justify;
+  }
+  .ui.container {
+    width: 90% !important;
+    margin: 0px auto !important;
+  }
+  .section2Title {
+    padding-top: 40px;
+    font-size: 20px;
+  }
+  .section2Banner p {
+    font-size: 13px;
+  }
+  .section2Banner {
+    background-image: url(/img/koompi-banner-1.png);
+    height: 300px;
+    background-position: center;
+    background-size: cover;
+    color: #ffffff;
+    text-align: center;
+    margin: 70px 0px;
+  }
+  .bannerBackground {
+    height: 60vh;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+  .bannerTitle {
+    font-size: 25px;
+    padding-left: 0px;
+    text-transform: inherit;
+    text-align: left;
+    font-size: 20px !important;
+  }
+
+}
+
+/* Mobile */
+@media only screen and (max-width: 767px) {
+  [class*="mobile hidden"],
+  [class*="tablet only"]:not(.mobile),
+  [class*="computer only"]:not(.mobile),
+  [class*="large screen only"]:not(.mobile),
+  [class*="widescreen only"]:not(.mobile),
+  [class*="or lower hidden"] {
+    display: none !important;
+  }
+}
+
+/* Tablet / iPad Portrait */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  [class*="mobile only"]:not(.tablet),
+  [class*="tablet hidden"],
+  [class*="computer only"]:not(.tablet),
+  [class*="large screen only"]:not(.tablet),
+  [class*="widescreen only"]:not(.tablet),
+  [class*="or lower hidden"]:not(.mobile) {
+    display: none !important;
+  }
+}
+
+/* Computer / Desktop / iPad Landscape */
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  [class*="mobile only"]:not(.computer),
+  [class*="tablet only"]:not(.computer),
+  [class*="computer hidden"],
+  [class*="large screen only"]:not(.computer),
+  [class*="widescreen only"]:not(.computer),
+  [class*="or lower hidden"]:not(.tablet):not(.mobile) {
+    display: none !important;
+  }
+}
+
+/* Large Monitor */
+@media only screen and (min-width: 1200px) and (max-width: 1919px) {
+  [class*="mobile only"]:not([class*="large screen"]),
+  [class*="tablet only"]:not([class*="large screen"]),
+  [class*="computer only"]:not([class*="large screen"]),
+  [class*="large screen hidden"],
+  [class*="widescreen only"]:not([class*="large screen"]),
+  [class*="or lower hidden"]:not(.computer):not(.tablet):not(.mobile) {
+    display: none !important;
+  }
+}
+
+/* Widescreen Monitor */
+@media only screen and (min-width: 1920px) {
+  [class*="mobile only"]:not([class*="widescreen"]),
+  [class*="tablet only"]:not([class*="widescreen"]),
+  [class*="computer only"]:not([class*="widescreen"]),
+  [class*="large screen only"]:not([class*="widescreen"]),
+  [class*="widescreen hidden"],
+  [class*="widescreen or lower hidden"] {
+    display: none !important;
+  }
 }

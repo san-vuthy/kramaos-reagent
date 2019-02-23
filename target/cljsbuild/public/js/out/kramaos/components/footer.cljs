@@ -11,8 +11,8 @@
        [:a {:class "item", :href "#"} "Contact Us"]
        [:a {:class "item", :href "#"} "Terms and Conditions"]
        [:a {:class "item", :href "#"} "Privacy Policy"]]
-      [:div {:class "ui inverted section divider"}]]
-    [:div {:class "ui container"}
+      [:div {:class "ui inverted section divider mobile hidden"}]]
+    [:div {:class "ui container mobile hidden"}
       [:div {:class "ui stackable two column grid"}
        [:div {:class "column"}
          [:div {:class "ui horizontal inverted link list"}

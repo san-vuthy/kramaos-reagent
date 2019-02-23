@@ -38,10 +38,7 @@
     [["/" {:get {:handler index-handler}}]
      ["/kosmos" {:get {:handler index-handler}}]
      ["/tutorials" {:get {:handler index-handler}}]
-<<<<<<< HEAD
-     ["/single-tutorial" {:get {:handler index-handler}}]
-=======
->>>>>>> b13ac25a6eaae136e81e8dce78fd75a9a694e45b
+     ["/contact" {:get {:handler index-handler}}]
      ["/admin" {:get {:handler index-handler}}]]
     {:data {:middleware middleware}})
    (reitit-ring/routes

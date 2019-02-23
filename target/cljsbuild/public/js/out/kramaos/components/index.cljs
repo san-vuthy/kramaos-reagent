@@ -1,6 +1,8 @@
 (ns kramaos.components.index
   (:require [kramaos.data.cards :refer [cards-data]]
-            [reagent.core :refer [atom]]))
+            [reagent.core :refer [atom]]
+            [kramaos.components.kosmos :refer [titleDesc]]
+            [kramaos.data.blogs :refer [blog-atom]]))
 
 (def background (atom "#fff"))
 (defn card
@@ -28,8 +30,8 @@
 
 
        [:div {:class "ui container"}
-           [:h1 {:class "section1Title"} "Powerful OS in Every Computers"]
-           [:p {:class "section1Desc"} "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis bibendum eget dolor eu ultricies. Curabitur feugiat, velit at facilisis pulvinar, odio enim dapibus lorem, elementum bibendum quam risus eget lacus. Nam in nibh nisl."]
+           (titleDesc "Powerful OS in Every Computers"
+                      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis bibendum eget dolor eu ultricies. Curabitur feugiat, velit at facilisis pulvinar, odio enim dapibus lorem, elementum bibendum quam risus eget lacus. Nam in nibh nisl.")
            [:div {:class "ui stackable three column grid"}
             (map (fn [item]
                      [:div.column.blur {:key (:id item)}
@@ -44,24 +46,16 @@
            [:i {:class "angle right icon iconSection2"}]]]]]
 
        [:div {:class "ui container"}
-        [:h1 {:class "section1Title"} "Recently Event Blog"]
-        [:p {:class "section1Desc"} "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis bibendum eget dolor eu ultricies. Curabitur feugiat, velit at facilisis pulvinar, odio enim dapibus lorem, elementum bibendum quam risus eget lacus. Nam in nibh nisl."]
+        (titleDesc "Recently Event Blog"
+                   "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis bibendum eget dolor eu ultricies. Curabitur feugiat, velit at facilisis pulvinar, odio enim dapibus lorem, elementum bibendum quam risus eget lacus. Nam in nibh nisl.")
         [:div {:class "ui stackable three column grid"}
-         [:div {:class "column blur"}
-          [:center
-           [:img {:src "https://cdn.shopify.com/s/files/1/0251/7678/files/Work-of-His-Hands-MacBook.png?6827892314490400527", :class "ui fluid image"}]
-           [:h4 "Complete Open Source from the box"]
-           [:p "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis bibendum eget dolor eu ultricies."]
-           [:p {:class "bySomeOne"} "By: Mr.Plock"]]]
-         [:div {:class "column blur"}
-          [:center
-           [:img {:src "https://cdn.shopify.com/s/files/1/0251/7678/files/Work-of-His-Hands-MacBook.png?6827892314490400527", :class "ui fluid image"}]
-           [:h4 "Dually Build-in Desktop Support"]
-           [:p "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis bibendum eget dolor eu ultricies."]
-           [:p {:class "bySomeOne"} "By: Mr.Plock"]]]
-         [:div {:class "column blur"}
-          [:center
-           [:img {:src "https://cdn.shopify.com/s/files/1/0251/7678/files/Work-of-His-Hands-MacBook.png?6827892314490400527", :class "ui fluid image"}]
-           [:h4 "Freindly Development Enviroment"]
-           [:p "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis bibendum eget dolor eu ultricies."]
-           [:p {:class "bySomeOne"} "By: Mr.Plock"]]]]]])
+         (map (fn [blog]
+                  [:div {:class "column blur" :key (:id blog)}
+                    [:a {:target "_blank"
+                         :href (:link blog)}
+                     [:center
+                      [:img {:src (:img blog), :class "ui fluid image"}]
+                      [:h4 (:title blog)]
+                      [:p (:desc blog)]
+                      [:p {:class "bySomeOne"} "By: Koompi"]]]])
+              (vals @blog-atom))]]])
