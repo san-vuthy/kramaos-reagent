@@ -41,7 +41,7 @@
         [:div {:class "header"} "Community"]
         [:div {:class "menu"}
          [:a {:class "item" :href "https://forum.koompi.com/" :target "_blank"} "Question and Answer"]
-         [:a {:class "item" :href "https://lab.krama.org" :target "_blank"} "Projects"]]]
+         [:a {:class "item" :href "https://www.git.kramaos.org/" :target "_blank"} "Projects"]]]
    [:div {:class "item"}
         [:div {:class "header" :href "/contact"} "Contact"]]])
 
@@ -62,7 +62,6 @@
           [:div.right.menu.navbar {:class classColor}
               (community-menu color)
               (products-menu color)
-              [:a {:class "item computer or lower hidden" :href "/contact"} "Contact Us"]
               (menuToggleIcon)
               (bars-icon)]]])
 

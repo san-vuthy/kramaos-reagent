@@ -7682,3 +7682,1227 @@ notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/cor
 Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
 [32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.515 seconds.[0m
 notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/core.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 4.269 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/goog/deps.js
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/index.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 2.384 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/index.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.366 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/index.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.179 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/index.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.518 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/data/cards.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.471 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/data/cards.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.775 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/data/cards.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.474 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/data/cards.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.673 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/data/cards.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.501 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/data/cards.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.601 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/data/cards.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.465 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/data/cards.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.636 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/data/cards.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.207 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/data/cards.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.335 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/data/cards.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.72 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/data/cards.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.4 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/data/cards.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.222 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/data/cards.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.47 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/data/cards.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.56 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/data/cards.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.56 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/data/cards.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.726 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/data/cards.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.587 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/index.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[31mFailed to compile build :app from ["src/cljs" "src/cljc" "env/dev/cljs"] in 0.779 seconds.[0m
+[36m----  Could not Read  src/cljs/kramaos/components/index.cljs   line:46 ----[0m
+
+  [1m/home/koompi/projects/kramaos/kramaos-reagent/src/cljs/kramaos/components/index.cljs [line 46, col 52] Invalid symbol: By:.[0m
+
+  [36m44[0m  [36m        [:h4 (:title blog)][0m
+  [36m45[0m  [36m        [:p (:desc blog)][0m
+  [33m46[0m  [1m        [:p {:class "bySomeOne"} "By: Koompi"]]]])[0m
+  [0m  [0m  [33m        /home/koompi/projects/kramaos/kramaos-reagent/src/cljs/kramaos/components/index.cljs [line 46, col 52] Invalid symbol: By:.[0m
+  [36m47[0m  [36m(vals @blog-atom))]]])[0m
+
+[36m----  Reader Error : Please see src/cljs/kramaos/components/index.cljs  ----[0m
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.31 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/index.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.311 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/index.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.824 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/index.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.5 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/index.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.536 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/index.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.285 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/index.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.507 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/index.js
+Notifying browser that CSS file changed: resources/public/css/style.css
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.548 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.459 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.731 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/core.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.633 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/core.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.341 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/core.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.653 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/index.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.693 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/index.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.292 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/index.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.271 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/index.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[31mFailed to compile build :app from ["src/cljs" "src/cljc" "env/dev/cljs"] in 0.833 seconds.[0m
+[36m----  Could not Read  src/cljs/kramaos/components/index.cljs   line:63 ----[0m
+
+  [1m/home/koompi/projects/kramaos/kramaos-reagent/src/cljs/kramaos/components/index.cljs [line 63, col 37] Unmatched delimiter ).[0m
+
+  [36m61[0m  [36m        [:p (:desc blog)][0m
+  [36m62[0m  [36m        [:p {:class "bySomeOne"} "By: Koompi"]]]])[0m
+  [33m63[0m  [1m(vals @blog-atom))]]])[0m
+  [0m  [0m  [33m/home/koompi/projects/kramaos/kramaos-reagent/src/cljs/kramaos/components/index.cljs [line 63, col 37] Unmatched delimiter ).[0m
+
+[36m----  Reader Error : Please see src/cljs/kramaos/components/index.cljs  ----[0m
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.261 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/index.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.623 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[31mFailed to compile build :app from ["src/cljs" "src/cljc" "env/dev/cljs"] in 0.786 seconds.[0m
+[36m----  Could not Read  src/cljs/kramaos/components/kosmos.cljs   line:79 ----[0m
+
+  [1m/home/koompi/projects/kramaos/kramaos-reagent/src/cljs/kramaos/components/kosmos.cljs [line 79, col 1] Unexpected EOF while reading item 3 of vector, starting at line 13 and column 4.[0m
+
+[36m----  Reader Error : Please see src/cljs/kramaos/components/kosmos.cljs  ----[0m
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[31mFailed to compile build :app from ["src/cljs" "src/cljc" "env/dev/cljs"] in 0.632 seconds.[0m
+[36m----  Could not Read  src/cljs/kramaos/components/kosmos.cljs   line:79 ----[0m
+
+  [1m/home/koompi/projects/kramaos/kramaos-reagent/src/cljs/kramaos/components/kosmos.cljs [line 79, col 1] Unexpected EOF while reading item 4 of list, starting at line 12 and column 1.[0m
+
+[36m----  Reader Error : Please see src/cljs/kramaos/components/kosmos.cljs  ----[0m
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.243 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.235 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.246 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.232 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.291 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.234 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.178 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.247 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.273 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.255 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.132 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.24 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.305 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.332 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.605 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.346 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.574 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.563 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.273 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.392 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.282 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.411 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.271 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.345 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.454 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.408 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[31mFailed to compile build :app from ["src/cljs" "src/cljc" "env/dev/cljs"] in 0.761 seconds.[0m
+[36m----  Could not Read  src/cljs/kramaos/components/kosmos.cljs   line:33 ----[0m
+
+  [1m/home/koompi/projects/kramaos/kramaos-reagent/src/cljs/kramaos/components/kosmos.cljs [line 33, col 10] A single colon is not a valid keyword.[0m
+
+  [36m31[0m  [36m   [:p "For developers and life-long learners, we shipped the KOSMOS with modern and favorite programming languages by developers around the world like Python, Go, Rust, Clojure and of course web stuffs around JS tools and framework. On top of that there also the favorite text editors VS Code. You can install more tools for yourself; just pi -i <app name> on terminal or head to the Software store and install it with a single click."][0m
+  [36m32[0m  [36m   [:p "For office and administration work, KOSMOS comes with a suite of Libreoffice. However v2.0 also included Microsoft Office Online Desktop Apps to let the users take advantage of their OneDrive and the flavor of MS Office in their most powerful Linux desktop. "][0m
+  [33m33[0m  [1m   [: ][0m
+  [0m  [0m  [33m   /home/koompi/projects/kramaos/kramaos-reagent/src/cljs/kramaos/components/kosmos.cljs [line 33, col 10] A single colon is not a valid keyword.[0m
+  [36m34[0m  [36m[0m
+  [36m35[0m  [36m])[0m
+  [36m36[0m  [36m   ; [:div.ui.container [0m
+
+[36m----  Reader Error : Please see src/cljs/kramaos/components/kosmos.cljs  ----[0m
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[31mFailed to compile build :app from ["src/cljs" "src/cljc" "env/dev/cljs"] in 0.682 seconds.[0m
+[36m----  Could not Read  src/cljs/kramaos/components/kosmos.cljs   line:33 ----[0m
+
+  [1m/home/koompi/projects/kramaos/kramaos-reagent/src/cljs/kramaos/components/kosmos.cljs [line 33, col 10] A single colon is not a valid keyword.[0m
+
+  [36m31[0m  [36m   [:p "For developers and life-long learners, we shipped the KOSMOS with modern and favorite programming languages by developers around the world like Python, Go, Rust, Clojure and of course web stuffs around JS tools and framework. On top of that there also the favorite text editors VS Code. You can install more tools for yourself; just pi -i <app name> on terminal or head to the Software store and install it with a single click."][0m
+  [36m32[0m  [36m   [:p "For office and administration work, KOSMOS comes with a suite of Libreoffice. However v2.0 also included Microsoft Office Online Desktop Apps to let the users take advantage of their OneDrive and the flavor of MS Office in their most powerful Linux desktop. "][0m
+  [33m33[0m  [1m   [: p"""][0m
+  [0m  [0m  [33m   /home/koompi/projects/kramaos/kramaos-reagent/src/cljs/kramaos/components/kosmos.cljs [line 33, col 10] A single colon is not a valid keyword.[0m
+  [36m34[0m  [36m[0m
+  [36m35[0m  [36m])[0m
+  [36m36[0m  [36m   ; [:div.ui.container [0m
+
+[36m----  Reader Error : Please see src/cljs/kramaos/components/kosmos.cljs  ----[0m
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[31mFailed to compile build :app from ["src/cljs" "src/cljc" "env/dev/cljs"] in 0.678 seconds.[0m
+[36m----  Could not Read  src/cljs/kramaos/components/kosmos.cljs   line:90 ----[0m
+
+  [1m/home/koompi/projects/kramaos/kramaos-reagent/src/cljs/kramaos/components/kosmos.cljs [line 90, col 1] Unexpected EOF reading string starting "}]]]]])
+.[0m
+
+[36m----  Reader Error : Please see src/cljs/kramaos/components/kosmos.cljs  ----[0m
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.053 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[31mFailed to compile build :app from ["src/cljs" "src/cljc" "env/dev/cljs"] in 0.676 seconds.[0m
+[36m----  Could not Read  src/cljs/kramaos/components/kosmos.cljs   line:90 ----[0m
+
+  [1m/home/koompi/projects/kramaos/kramaos-reagent/src/cljs/kramaos/components/kosmos.cljs [line 90, col 1] Unexpected EOF reading string starting "}]]]]])
+.[0m
+
+[36m----  Reader Error : Please see src/cljs/kramaos/components/kosmos.cljs  ----[0m
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[31mFailed to compile build :app from ["src/cljs" "src/cljc" "env/dev/cljs"] in 0.634 seconds.[0m
+[36m----  Could not Read  src/cljs/kramaos/components/kosmos.cljs   line:90 ----[0m
+
+  [1m/home/koompi/projects/kramaos/kramaos-reagent/src/cljs/kramaos/components/kosmos.cljs [line 90, col 1] Unexpected EOF reading string starting "}]]]]])
+.[0m
+
+[36m----  Reader Error : Please see src/cljs/kramaos/components/kosmos.cljs  ----[0m
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.419 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.371 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.418 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.171 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.506 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.283 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.191 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.117 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.257 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.238 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.28 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.231 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.394 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.327 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.676 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[31mFailed to compile build :app from ["src/cljs" "src/cljc" "env/dev/cljs"] in 0.804 seconds.[0m
+[36m----  Could not Read  src/cljs/kramaos/components/kosmos.cljs   line:37 ----[0m
+
+  [1m/home/koompi/projects/kramaos/kramaos-reagent/src/cljs/kramaos/components/kosmos.cljs [line 37, col 6] Unmatched delimiter ).[0m
+
+  [36m35[0m  [36m      [:p "Happy computing!"][0m
+  [36m36[0m  [36m   [:p "KOSMOS/KramaOS Team"][0m
+  [33m37[0m  [1m])[0m
+  [0m  [0m  [33m/home/koompi/projects/kramaos/kramaos-reagent/src/cljs/kramaos/components/kosmos.cljs [line 37, col 6] Unmatched delimiter ).[0m
+  [36m38[0m  [36m   ; [:div.ui.container [0m
+  [36m39[0m  [36m   ;    [:div {:class "ui stackable two column grid"}[0m
+  [36m40[0m  [36m   ;     [:div {:class "ten wide column"}[0m
+
+[36m----  Reader Error : Please see src/cljs/kramaos/components/kosmos.cljs  ----[0m
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.333 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 2.074 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.241 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[31mFailed to compile build :app from ["src/cljs" "src/cljc" "env/dev/cljs"] in 0.695 seconds.[0m
+[36m----  Could not Read  src/cljs/kramaos/components/kosmos.cljs   line:37 ----[0m
+
+  [1m/home/koompi/projects/kramaos/kramaos-reagent/src/cljs/kramaos/components/kosmos.cljs [line 37, col 6] Unmatched delimiter ).[0m
+
+  [36m35[0m  [36m      [:p "Happy computing!"][0m
+  [36m36[0m  [36m      [:p "KOSMOS/KramaOS Team"][0m
+  [33m37[0m  [1m])[0m
+  [0m  [0m  [33m/home/koompi/projects/kramaos/kramaos-reagent/src/cljs/kramaos/components/kosmos.cljs [line 37, col 6] Unmatched delimiter ).[0m
+  [36m38[0m  [36m   ; [:div.ui.container [0m
+  [36m39[0m  [36m   ;    [:div {:class "ui stackable two column grid"}[0m
+  [36m40[0m  [36m   ;     [:div {:class "ten wide column"}[0m
+
+[36m----  Reader Error : Please see src/cljs/kramaos/components/kosmos.cljs  ----[0m
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.494 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.5 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[36m----  Compiler Warning on   src/cljs/kramaos/components/kosmos.cljs   line:22  column:8  ----[0m
+
+  [1mUse of undeclared Var kramaos.components.kosmos/titleDesc[0m
+
+  [36m18[0m  [36m               [:h1 "One-click install KOSMOS"][0m
+  [36m19[0m  [36m               [:p.paddingParagraph "Our success is determined by how many lives we help through spreading the love and benefit of Open Source. Don’t let our words fool you, download and test it for yourself."][0m
+  [36m20[0m  [36m               [:a {:href "/introduction/getting-started.html", :class "ui huge inverted download button downadBTN"} "Download Now"]]]][0m
+  [36m21[0m  [36m[0m
+  [33m22[0m  [1m      (titleDesc  "Before you leave, please read below note from KOSMOS team"[0m
+  [0m  [0m  [33m       ^--- Use of undeclared Var kramaos.components.kosmos/titleDesc[0m
+  [36m23[0m  [36m                  "") [0m
+  [36m24[0m  [36m[0m
+  [36m25[0m  [36m         [:p "As said before, KOSMOS v2.0.0, a multipurpose and user-friendly Linux operating system distribution, driven by a mission to provide tools for the next generation of engineers, problem solvers and discovers."]   [0m
+  [36m26[0m  [36m         [:p "KOSMOS was developed for KOOMPI Laptop and many of its other devices to encourage more laptops and computer companies in to the world to use Open Sources and help build to support for Linux based Operating System, like Linux has been helping us in many way so far."]  [0m
+  [36m27[0m  [36m         [:p "KOSMOS is freely open, which meant you can customized everything to your demand and satisfaction, not just for KOOMPI hardwares. All from the looks and feel to the very kernel and everything else, can be change. That is why you are opened to download it right here."]  [0m
+
+[36m----  Compiler Warning : Please see src/cljs/kramaos/components/kosmos.cljs  ----[0m
+[31mFailed to compile build :app from ["src/cljs" "src/cljc" "env/dev/cljs"] in 0.809 seconds.[0m
+[36m----  Could not Analyze  src/cljs/kramaos/components/index.cljs  ----[0m
+
+  [1mInvalid :refer, var kramaos.components.kosmos/titleDesc does not exist [0m
+
+[36m----  Analysis Error : Please see src/cljs/kramaos/components/index.cljs  ----[0m
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[36m----  Compiler Warning on   src/cljs/kramaos/components/kosmos.cljs   line:22  column:8  ----[0m
+
+  [1mUse of undeclared Var kramaos.components.kosmos/titleDesc[0m
+
+  [36m18[0m  [36m               [:h1 "One-click install KOSMOS"][0m
+  [36m19[0m  [36m               [:p.paddingParagraph "Our success is determined by how many lives we help through spreading the love and benefit of Open Source. Don’t let our words fool you, download and test it for yourself."][0m
+  [36m20[0m  [36m               [:a {:href "/introduction/getting-started.html", :class "ui huge inverted download button downadBTN"} "Download Now"]]]][0m
+  [36m21[0m  [36m[0m
+  [33m22[0m  [1m      (titleDesc  "Before you leave, please read below note from KOSMOS team"[0m
+  [0m  [0m  [33m       ^--- Use of undeclared Var kramaos.components.kosmos/titleDesc[0m
+  [36m23[0m  [36m                  "") [0m
+  [36m24[0m  [36m         [0m
+  [36m25[0m  [36m         [:p "As said before, KOSMOS v2.0.0, a multipurpose and user-friendly Linux operating system distribution, driven by a mission to provide tools for the next generation of engineers, problem solvers and discovers."]   [0m
+  [36m26[0m  [36m         [:p "KOSMOS was developed for KOOMPI Laptop and many of its other devices to encourage more laptops and computer companies in to the world to use Open Sources and help build to support for Linux based Operating System, like Linux has been helping us in many way so far."]  [0m
+  [36m27[0m  [36m         [:p "KOSMOS is freely open, which meant you can customized everything to your demand and satisfaction, not just for KOOMPI hardwares. All from the looks and feel to the very kernel and everything else, can be change. That is why you are opened to download it right here."]  [0m
+
+[36m----  Compiler Warning : Please see src/cljs/kramaos/components/kosmos.cljs  ----[0m
+[31mFailed to compile build :app from ["src/cljs" "src/cljc" "env/dev/cljs"] in 0.795 seconds.[0m
+[36m----  Could not Analyze  src/cljs/kramaos/components/index.cljs  ----[0m
+
+  [1mInvalid :refer, var kramaos.components.kosmos/titleDesc does not exist [0m
+
+[36m----  Analysis Error : Please see src/cljs/kramaos/components/index.cljs  ----[0m
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[36m----  Compiler Warning on   src/cljs/kramaos/components/kosmos.cljs   line:22  column:8  ----[0m
+
+  [1mUse of undeclared Var kramaos.components.kosmos/titleDesc[0m
+
+  [36m18[0m  [36m               [:h1 "One-click install KOSMOS"][0m
+  [36m19[0m  [36m               [:p.paddingParagraph "Our success is determined by how many lives we help through spreading the love and benefit of Open Source. Don’t let our words fool you, download and test it for yourself."][0m
+  [36m20[0m  [36m               [:a {:href "/introduction/getting-started.html", :class "ui huge inverted download button downadBTN"} "Download Now"]]]][0m
+  [36m21[0m  [36m[0m
+  [33m22[0m  [1m      (titleDesc  "Before you leave, please read below note from KOSMOS team"[0m
+  [0m  [0m  [33m       ^--- Use of undeclared Var kramaos.components.kosmos/titleDesc[0m
+  [36m23[0m  [36m                  "") [0m
+  [36m24[0m  [36m         [:div.ui.container.kosmosConent[0m
+  [36m25[0m  [36m      [:h1 title][0m
+  [36m26[0m  [36m      [:p desc]][0m
+  [36m27[0m  [36m         [:p "As said before, KOSMOS v2.0.0, a multipurpose and user-friendly Linux operating system distribution, driven by a mission to provide tools for the next generation of engineers, problem solvers and discovers."]   [0m
+
+[36m----  Compiler Warning : Please see src/cljs/kramaos/components/kosmos.cljs  ----[0m
+[36m----  Compiler Warning on   src/cljs/kramaos/components/kosmos.cljs   line:25  column:12  ----[0m
+
+  [1mUse of undeclared Var kramaos.components.kosmos/title[0m
+
+  [36m22[0m  [36m(titleDesc  "Before you leave, please read below note from KOSMOS team"[0m
+  [36m23[0m  [36m            "") [0m
+  [36m24[0m  [36m   [:div.ui.container.kosmosConent[0m
+  [33m25[0m  [1m[:h1 title][0m
+  [0m  [0m  [33m     ^--- Use of undeclared Var kramaos.components.kosmos/title[0m
+  [36m26[0m  [36m[:p desc]][0m
+  [36m27[0m  [36m   [:p "As said before, KOSMOS v2.0.0, a multipurpose and user-friendly Linux operating system distribution, driven by a mission to provide tools for the next generation of engineers, problem solvers and discovers."]   [0m
+  [36m28[0m  [36m   [:p "KOSMOS was developed for KOOMPI Laptop and many of its other devices to encourage more laptops and computer companies in to the world to use Open Sources and help build to support for Linux based Operating System, like Linux has been helping us in many way so far."]  [0m
+  [36m29[0m  [36m   [:p "KOSMOS is freely open, which meant you can customized everything to your demand and satisfaction, not just for KOOMPI hardwares. All from the looks and feel to the very kernel and everything else, can be change. That is why you are opened to download it right here."]  [0m
+  [36m30[0m  [36m   [:p "KOSMOS comes with one official desktop edition based on KDE, we called KDE-KOSMOS flavor. We don’t want to reinvent the good wheels. Doing this meant we help support growing the open sources community and its users. We also believe that KDE is one of the most stable DE out in the Open Source world. Hope that we can help streamline open source community choose one main Desktop Environment (DE) and use the energy to build other things that is more useful for the world. "]  [0m
+
+[36m----  Compiler Warning : Please see src/cljs/kramaos/components/kosmos.cljs  ----[0m
+[36m----  Compiler Warning on   src/cljs/kramaos/components/kosmos.cljs   line:26  column:11  ----[0m
+
+  [1mUse of undeclared Var kramaos.components.kosmos/desc[0m
+
+  [36m22[0m  [36m(titleDesc  "Before you leave, please read below note from KOSMOS team"[0m
+  [36m23[0m  [36m            "") [0m
+  [36m24[0m  [36m   [:div.ui.container.kosmosConent[0m
+  [36m25[0m  [36m[:h1 title][0m
+  [33m26[0m  [1m[:p desc]][0m
+  [0m  [0m  [33m    ^--- Use of undeclared Var kramaos.components.kosmos/desc[0m
+  [36m27[0m  [36m   [:p "As said before, KOSMOS v2.0.0, a multipurpose and user-friendly Linux operating system distribution, driven by a mission to provide tools for the next generation of engineers, problem solvers and discovers."]   [0m
+  [36m28[0m  [36m   [:p "KOSMOS was developed for KOOMPI Laptop and many of its other devices to encourage more laptops and computer companies in to the world to use Open Sources and help build to support for Linux based Operating System, like Linux has been helping us in many way so far."]  [0m
+  [36m29[0m  [36m   [:p "KOSMOS is freely open, which meant you can customized everything to your demand and satisfaction, not just for KOOMPI hardwares. All from the looks and feel to the very kernel and everything else, can be change. That is why you are opened to download it right here."]  [0m
+  [36m30[0m  [36m   [:p "KOSMOS comes with one official desktop edition based on KDE, we called KDE-KOSMOS flavor. We don’t want to reinvent the good wheels. Doing this meant we help support growing the open sources community and its users. We also believe that KDE is one of the most stable DE out in the Open Source world. Hope that we can help streamline open source community choose one main Desktop Environment (DE) and use the energy to build other things that is more useful for the world. "]  [0m
+  [36m31[0m  [36m   [:p "Although, in the purpose of learning, we will be releasing a community flavor, which are Openbox and Xfce for those love more functional and less beautiful. Yet, KDE-KOSMOS will be the only official DE."]  [0m
+
+[36m----  Compiler Warning : Please see src/cljs/kramaos/components/kosmos.cljs  ----[0m
+[31mFailed to compile build :app from ["src/cljs" "src/cljc" "env/dev/cljs"] in 0.939 seconds.[0m
+[36m----  Could not Analyze  src/cljs/kramaos/components/index.cljs  ----[0m
+
+  [1mInvalid :refer, var kramaos.components.kosmos/titleDesc does not exist [0m
+
+[36m----  Analysis Error : Please see src/cljs/kramaos/components/index.cljs  ----[0m
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[36m----  Compiler Warning on   src/cljs/kramaos/components/kosmos.cljs   line:22  column:8  ----[0m
+
+  [1mUse of undeclared Var kramaos.components.kosmos/titleDesc[0m
+
+  [36m18[0m  [36m               [:h1 "One-click install KOSMOS"][0m
+  [36m19[0m  [36m               [:p.paddingParagraph "Our success is determined by how many lives we help through spreading the love and benefit of Open Source. Don’t let our words fool you, download and test it for yourself."][0m
+  [36m20[0m  [36m               [:a {:href "/introduction/getting-started.html", :class "ui huge inverted download button downadBTN"} "Download Now"]]]][0m
+  [36m21[0m  [36m[0m
+  [33m22[0m  [1m      (titleDesc  "Before you leave, please read below note from KOSMOS team"[0m
+  [0m  [0m  [33m       ^--- Use of undeclared Var kramaos.components.kosmos/titleDesc[0m
+  [36m23[0m  [36m                  "") [0m
+  [36m24[0m  [36m         [:div.ui.container.kosmosConent[0m
+  [36m25[0m  [36m            [:h1 title][0m
+  [36m26[0m  [36m            [:p desc]][0m
+  [36m27[0m  [36m         [:p "As said before, KOSMOS v2.0.0, a multipurpose and user-friendly Linux operating system distribution, driven by a mission to provide tools for the next generation of engineers, problem solvers and discovers."]   [0m
+
+[36m----  Compiler Warning : Please see src/cljs/kramaos/components/kosmos.cljs  ----[0m
+[36m----  Compiler Warning on   src/cljs/kramaos/components/kosmos.cljs   line:25  column:18  ----[0m
+
+  [1mUse of undeclared Var kramaos.components.kosmos/title[0m
+
+  [36m22[0m  [36m(titleDesc  "Before you leave, please read below note from KOSMOS team"[0m
+  [36m23[0m  [36m            "") [0m
+  [36m24[0m  [36m   [:div.ui.container.kosmosConent[0m
+  [33m25[0m  [1m      [:h1 title][0m
+  [0m  [0m  [33m           ^--- Use of undeclared Var kramaos.components.kosmos/title[0m
+  [36m26[0m  [36m      [:p desc]][0m
+  [36m27[0m  [36m   [:p "As said before, KOSMOS v2.0.0, a multipurpose and user-friendly Linux operating system distribution, driven by a mission to provide tools for the next generation of engineers, problem solvers and discovers."]   [0m
+  [36m28[0m  [36m   [:p "KOSMOS was developed for KOOMPI Laptop and many of its other devices to encourage more laptops and computer companies in to the world to use Open Sources and help build to support for Linux based Operating System, like Linux has been helping us in many way so far."]  [0m
+  [36m29[0m  [36m   [:p "KOSMOS is freely open, which meant you can customized everything to your demand and satisfaction, not just for KOOMPI hardwares. All from the looks and feel to the very kernel and everything else, can be change. That is why you are opened to download it right here."]  [0m
+  [36m30[0m  [36m   [:p "KOSMOS comes with one official desktop edition based on KDE, we called KDE-KOSMOS flavor. We don’t want to reinvent the good wheels. Doing this meant we help support growing the open sources community and its users. We also believe that KDE is one of the most stable DE out in the Open Source world. Hope that we can help streamline open source community choose one main Desktop Environment (DE) and use the energy to build other things that is more useful for the world. "]  [0m
+
+[36m----  Compiler Warning : Please see src/cljs/kramaos/components/kosmos.cljs  ----[0m
+[36m----  Compiler Warning on   src/cljs/kramaos/components/kosmos.cljs   line:26  column:17  ----[0m
+
+  [1mUse of undeclared Var kramaos.components.kosmos/desc[0m
+
+  [36m22[0m  [36m(titleDesc  "Before you leave, please read below note from KOSMOS team"[0m
+  [36m23[0m  [36m            "") [0m
+  [36m24[0m  [36m   [:div.ui.container.kosmosConent[0m
+  [36m25[0m  [36m      [:h1 title][0m
+  [33m26[0m  [1m      [:p desc]][0m
+  [0m  [0m  [33m          ^--- Use of undeclared Var kramaos.components.kosmos/desc[0m
+  [36m27[0m  [36m   [:p "As said before, KOSMOS v2.0.0, a multipurpose and user-friendly Linux operating system distribution, driven by a mission to provide tools for the next generation of engineers, problem solvers and discovers."]   [0m
+  [36m28[0m  [36m   [:p "KOSMOS was developed for KOOMPI Laptop and many of its other devices to encourage more laptops and computer companies in to the world to use Open Sources and help build to support for Linux based Operating System, like Linux has been helping us in many way so far."]  [0m
+  [36m29[0m  [36m   [:p "KOSMOS is freely open, which meant you can customized everything to your demand and satisfaction, not just for KOOMPI hardwares. All from the looks and feel to the very kernel and everything else, can be change. That is why you are opened to download it right here."]  [0m
+  [36m30[0m  [36m   [:p "KOSMOS comes with one official desktop edition based on KDE, we called KDE-KOSMOS flavor. We don’t want to reinvent the good wheels. Doing this meant we help support growing the open sources community and its users. We also believe that KDE is one of the most stable DE out in the Open Source world. Hope that we can help streamline open source community choose one main Desktop Environment (DE) and use the energy to build other things that is more useful for the world. "]  [0m
+  [36m31[0m  [36m   [:p "Although, in the purpose of learning, we will be releasing a community flavor, which are Openbox and Xfce for those love more functional and less beautiful. Yet, KDE-KOSMOS will be the only official DE."]  [0m
+
+[36m----  Compiler Warning : Please see src/cljs/kramaos/components/kosmos.cljs  ----[0m
+[31mFailed to compile build :app from ["src/cljs" "src/cljc" "env/dev/cljs"] in 0.868 seconds.[0m
+[36m----  Could not Analyze  src/cljs/kramaos/components/index.cljs  ----[0m
+
+  [1mInvalid :refer, var kramaos.components.kosmos/titleDesc does not exist [0m
+
+[36m----  Analysis Error : Please see src/cljs/kramaos/components/index.cljs  ----[0m
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[36m----  Compiler Warning on   src/cljs/kramaos/components/kosmos.cljs   line:22  column:8  ----[0m
+
+  [1mUse of undeclared Var kramaos.components.kosmos/titleDesc[0m
+
+  [36m18[0m  [36m               [:h1 "One-click install KOSMOS"][0m
+  [36m19[0m  [36m               [:p.paddingParagraph "Our success is determined by how many lives we help through spreading the love and benefit of Open Source. Don’t let our words fool you, download and test it for yourself."][0m
+  [36m20[0m  [36m               [:a {:href "/introduction/getting-started.html", :class "ui huge inverted download button downadBTN"} "Download Now"]]]][0m
+  [36m21[0m  [36m[0m
+  [33m22[0m  [1m      (titleDesc  "Before you leave, please read below note from KOSMOS team"[0m
+  [0m  [0m  [33m       ^--- Use of undeclared Var kramaos.components.kosmos/titleDesc[0m
+  [36m23[0m  [36m                  "") [0m
+  [36m24[0m  [36m         [:div.ui.container.kosmosConent[0m
+  [36m25[0m  [36m            [:h1 "Before you leave, please read below note from KOSMOS team"][0m
+  [36m26[0m  [36m            [:p desc]][0m
+  [36m27[0m  [36m         [:p "As said before, KOSMOS v2.0.0, a multipurpose and user-friendly Linux operating system distribution, driven by a mission to provide tools for the next generation of engineers, problem solvers and discovers."]   [0m
+
+[36m----  Compiler Warning : Please see src/cljs/kramaos/components/kosmos.cljs  ----[0m
+[36m----  Compiler Warning on   src/cljs/kramaos/components/kosmos.cljs   line:26  column:17  ----[0m
+
+  [1mUse of undeclared Var kramaos.components.kosmos/desc[0m
+
+  [36m22[0m  [36m(titleDesc  "Before you leave, please read below note from KOSMOS team"[0m
+  [36m23[0m  [36m            "") [0m
+  [36m24[0m  [36m   [:div.ui.container.kosmosConent[0m
+  [36m25[0m  [36m      [:h1 "Before you leave, please read below note from KOSMOS team"][0m
+  [33m26[0m  [1m      [:p desc]][0m
+  [0m  [0m  [33m          ^--- Use of undeclared Var kramaos.components.kosmos/desc[0m
+  [36m27[0m  [36m   [:p "As said before, KOSMOS v2.0.0, a multipurpose and user-friendly Linux operating system distribution, driven by a mission to provide tools for the next generation of engineers, problem solvers and discovers."]   [0m
+  [36m28[0m  [36m   [:p "KOSMOS was developed for KOOMPI Laptop and many of its other devices to encourage more laptops and computer companies in to the world to use Open Sources and help build to support for Linux based Operating System, like Linux has been helping us in many way so far."]  [0m
+  [36m29[0m  [36m   [:p "KOSMOS is freely open, which meant you can customized everything to your demand and satisfaction, not just for KOOMPI hardwares. All from the looks and feel to the very kernel and everything else, can be change. That is why you are opened to download it right here."]  [0m
+  [36m30[0m  [36m   [:p "KOSMOS comes with one official desktop edition based on KDE, we called KDE-KOSMOS flavor. We don’t want to reinvent the good wheels. Doing this meant we help support growing the open sources community and its users. We also believe that KDE is one of the most stable DE out in the Open Source world. Hope that we can help streamline open source community choose one main Desktop Environment (DE) and use the energy to build other things that is more useful for the world. "]  [0m
+  [36m31[0m  [36m   [:p "Although, in the purpose of learning, we will be releasing a community flavor, which are Openbox and Xfce for those love more functional and less beautiful. Yet, KDE-KOSMOS will be the only official DE."]  [0m
+
+[36m----  Compiler Warning : Please see src/cljs/kramaos/components/kosmos.cljs  ----[0m
+[31mFailed to compile build :app from ["src/cljs" "src/cljc" "env/dev/cljs"] in 0.798 seconds.[0m
+[36m----  Could not Analyze  src/cljs/kramaos/components/index.cljs  ----[0m
+
+  [1mInvalid :refer, var kramaos.components.kosmos/titleDesc does not exist [0m
+
+[36m----  Analysis Error : Please see src/cljs/kramaos/components/index.cljs  ----[0m
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[36m----  Compiler Warning on   src/cljs/kramaos/components/kosmos.cljs   line:22  column:8  ----[0m
+
+  [1mUse of undeclared Var kramaos.components.kosmos/titleDesc[0m
+
+  [36m18[0m  [36m               [:h1 "One-click install KOSMOS"][0m
+  [36m19[0m  [36m               [:p.paddingParagraph "Our success is determined by how many lives we help through spreading the love and benefit of Open Source. Don’t let our words fool you, download and test it for yourself."][0m
+  [36m20[0m  [36m               [:a {:href "/introduction/getting-started.html", :class "ui huge inverted download button downadBTN"} "Download Now"]]]][0m
+  [36m21[0m  [36m[0m
+  [33m22[0m  [1m      (titleDesc  "Before you leave, please read below note from KOSMOS team"[0m
+  [0m  [0m  [33m       ^--- Use of undeclared Var kramaos.components.kosmos/titleDesc[0m
+  [36m23[0m  [36m                  "") [0m
+  [36m24[0m  [36m         [:div.ui.container.kosmosConent[0m
+  [36m25[0m  [36m            [:h1 "Before you leave, please read below note from KOSMOS team"][0m
+  [36m26[0m  [36m            ][0m
+  [36m27[0m  [36m         [:p "As said before, KOSMOS v2.0.0, a multipurpose and user-friendly Linux operating system distribution, driven by a mission to provide tools for the next generation of engineers, problem solvers and discovers."]   [0m
+
+[36m----  Compiler Warning : Please see src/cljs/kramaos/components/kosmos.cljs  ----[0m
+[31mFailed to compile build :app from ["src/cljs" "src/cljc" "env/dev/cljs"] in 0.752 seconds.[0m
+[36m----  Could not Analyze  src/cljs/kramaos/components/index.cljs  ----[0m
+
+  [1mInvalid :refer, var kramaos.components.kosmos/titleDesc does not exist [0m
+
+[36m----  Analysis Error : Please see src/cljs/kramaos/components/index.cljs  ----[0m
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[31mFailed to compile build :app from ["src/cljs" "src/cljc" "env/dev/cljs"] in 0.736 seconds.[0m
+[36m----  Could not Read  src/cljs/kramaos/components/kosmos.cljs   line:39 ----[0m
+
+  [1m/home/koompi/projects/kramaos/kramaos-reagent/src/cljs/kramaos/components/kosmos.cljs [line 39, col 6] Unmatched delimiter ).[0m
+
+  [36m37[0m  [36m      [:p "Happy computing!"][0m
+  [36m38[0m  [36m   [:p "KOSMOS/KramaOS Team"][0m
+  [33m39[0m  [1m])[0m
+  [0m  [0m  [33m/home/koompi/projects/kramaos/kramaos-reagent/src/cljs/kramaos/components/kosmos.cljs [line 39, col 6] Unmatched delimiter ).[0m
+  [36m40[0m  [36m   ; [:div.ui.container [0m
+  [36m41[0m  [36m   ;    [:div {:class "ui stackable two column grid"}[0m
+  [36m42[0m  [36m   ;     [:div {:class "ten wide column"}[0m
+
+[36m----  Reader Error : Please see src/cljs/kramaos/components/kosmos.cljs  ----[0m
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[36m----  Compiler Warning on   src/cljs/kramaos/components/kosmos.cljs   line:22  column:8  ----[0m
+
+  [1mUse of undeclared Var kramaos.components.kosmos/titleDesc[0m
+
+  [36m18[0m  [36m               [:h1 "One-click install KOSMOS"][0m
+  [36m19[0m  [36m               [:p.paddingParagraph "Our success is determined by how many lives we help through spreading the love and benefit of Open Source. Don’t let our words fool you, download and test it for yourself."][0m
+  [36m20[0m  [36m               [:a {:href "/introduction/getting-started.html", :class "ui huge inverted download button downadBTN"} "Download Now"]]]][0m
+  [36m21[0m  [36m[0m
+  [33m22[0m  [1m      (titleDesc  "Before you leave, please read below note from KOSMOS team"[0m
+  [0m  [0m  [33m       ^--- Use of undeclared Var kramaos.components.kosmos/titleDesc[0m
+  [36m23[0m  [36m                  "") [0m
+  [36m24[0m  [36m         [:div.ui.container.kosmosConent[0m
+  [36m25[0m  [36m            [:h1 "Before you leave, please read below note from KOSMOS team"][0m
+  [36m26[0m  [36m            [0m
+  [36m27[0m  [36m         [:p "As said before, KOSMOS v2.0.0, a multipurpose and user-friendly Linux operating system distribution, driven by a mission to provide tools for the next generation of engineers, problem solvers and discovers."]   [0m
+
+[36m----  Compiler Warning : Please see src/cljs/kramaos/components/kosmos.cljs  ----[0m
+[31mFailed to compile build :app from ["src/cljs" "src/cljc" "env/dev/cljs"] in 0.79 seconds.[0m
+[36m----  Could not Analyze  src/cljs/kramaos/components/index.cljs  ----[0m
+
+  [1mInvalid :refer, var kramaos.components.kosmos/titleDesc does not exist [0m
+
+[36m----  Analysis Error : Please see src/cljs/kramaos/components/index.cljs  ----[0m
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[31mFailed to compile build :app from ["src/cljs" "src/cljc" "env/dev/cljs"] in 0.741 seconds.[0m
+[36m----  Could not Analyze  src/cljs/kramaos/components/index.cljs  ----[0m
+
+  [1mInvalid :refer, var kramaos.components.kosmos/titleDesc does not exist [0m
+
+[36m----  Analysis Error : Please see src/cljs/kramaos/components/index.cljs  ----[0m
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[36m----  Compiler Warning on   src/cljs/kramaos/components/kosmos.cljs   line:22  column:8  ----[0m
+
+  [1mUse of undeclared Var kramaos.components.kosmos/titleDesc[0m
+
+  [36m18[0m  [36m               [:h1 "One-click install KOSMOS"][0m
+  [36m19[0m  [36m               [:p.paddingParagraph "Our success is determined by how many lives we help through spreading the love and benefit of Open Source. Don’t let our words fool you, download and test it for yourself."][0m
+  [36m20[0m  [36m               [:a {:href "/introduction/getting-started.html", :class "ui huge inverted download button downadBTN"} "Download Now"]]]][0m
+  [36m21[0m  [36m[0m
+  [33m22[0m  [1m      (titleDesc  "Before you leave, please read below note from KOSMOS team"[0m
+  [0m  [0m  [33m       ^--- Use of undeclared Var kramaos.components.kosmos/titleDesc[0m
+  [36m23[0m  [36m                  "") [0m
+  [36m24[0m  [36m         [:div.ui.container.kosmosConent[0m
+  [36m25[0m  [36m            [:h1 "Before you leave, please read below note from KOSMOS team"][0m
+  [36m26[0m  [36m            [0m
+  [36m27[0m  [36m         [:p "As said before, KOSMOS v2.0.0, a multipurpose and user-friendly Linux operating system distribution, driven by a mission to provide tools for the next generation of engineers, problem solvers and discovers."]   [0m
+
+[36m----  Compiler Warning : Please see src/cljs/kramaos/components/kosmos.cljs  ----[0m
+[31mFailed to compile build :app from ["src/cljs" "src/cljc" "env/dev/cljs"] in 0.8 seconds.[0m
+[36m----  Could not Analyze  src/cljs/kramaos/components/index.cljs  ----[0m
+
+  [1mInvalid :refer, var kramaos.components.kosmos/titleDesc does not exist [0m
+
+[36m----  Analysis Error : Please see src/cljs/kramaos/components/index.cljs  ----[0m
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[31mFailed to compile build :app from ["src/cljs" "src/cljc" "env/dev/cljs"] in 0.717 seconds.[0m
+[36m----  Could not Read  src/cljs/kramaos/components/kosmos.cljs   line:39 ----[0m
+
+  [1m/home/koompi/projects/kramaos/kramaos-reagent/src/cljs/kramaos/components/kosmos.cljs [line 39, col 6] Unmatched delimiter ).[0m
+
+  [36m37[0m  [36m      [:p "Happy computing!"][0m
+  [36m38[0m  [36m   [:p "KOSMOS/KramaOS Team"][0m
+  [33m39[0m  [1m])[0m
+  [0m  [0m  [33m/home/koompi/projects/kramaos/kramaos-reagent/src/cljs/kramaos/components/kosmos.cljs [line 39, col 6] Unmatched delimiter ).[0m
+  [36m40[0m  [36m   ; [:div.ui.container [0m
+  [36m41[0m  [36m   ;    [:div {:class "ui stackable two column grid"}[0m
+  [36m42[0m  [36m   ;     [:div {:class "ten wide column"}[0m
+
+[36m----  Reader Error : Please see src/cljs/kramaos/components/kosmos.cljs  ----[0m
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[36m----  Compiler Warning on   src/cljs/kramaos/components/kosmos.cljs   line:22  column:8  ----[0m
+
+  [1mUse of undeclared Var kramaos.components.kosmos/titleDesc[0m
+
+  [36m18[0m  [36m               [:h1 "One-click install KOSMOS"][0m
+  [36m19[0m  [36m               [:p.paddingParagraph "Our success is determined by how many lives we help through spreading the love and benefit of Open Source. Don’t let our words fool you, download and test it for yourself."][0m
+  [36m20[0m  [36m               [:a {:href "/introduction/getting-started.html", :class "ui huge inverted download button downadBTN"} "Download Now"]]]][0m
+  [36m21[0m  [36m[0m
+  [33m22[0m  [1m      (titleDesc  "Before you leave, please read below note from KOSMOS team"[0m
+  [0m  [0m  [33m       ^--- Use of undeclared Var kramaos.components.kosmos/titleDesc[0m
+  [36m23[0m  [36m                  "") [0m
+  [36m24[0m  [36m         [:div.ui.container.kosmosConent[0m
+  [36m25[0m  [36m            [:h1 "Before you leave, please read below note from KOSMOS team"][0m
+  [36m26[0m  [36m            ][0m
+  [36m27[0m  [36m         [:p "As said before, KOSMOS v2.0.0, a multipurpose and user-friendly Linux operating system distribution, driven by a mission to provide tools for the next generation of engineers, problem solvers and discovers."]   [0m
+
+[36m----  Compiler Warning : Please see src/cljs/kramaos/components/kosmos.cljs  ----[0m
+[31mFailed to compile build :app from ["src/cljs" "src/cljc" "env/dev/cljs"] in 0.758 seconds.[0m
+[36m----  Could not Analyze  src/cljs/kramaos/components/index.cljs  ----[0m
+
+  [1mInvalid :refer, var kramaos.components.kosmos/titleDesc does not exist [0m
+
+[36m----  Analysis Error : Please see src/cljs/kramaos/components/index.cljs  ----[0m
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[31mFailed to compile build :app from ["src/cljs" "src/cljc" "env/dev/cljs"] in 0.864 seconds.[0m
+[36m----  Could not Analyze  src/cljs/kramaos/components/index.cljs  ----[0m
+
+  [1mInvalid :refer, var kramaos.components.kosmos/titleDesc does not exist [0m
+
+[36m----  Analysis Error : Please see src/cljs/kramaos/components/index.cljs  ----[0m
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.394 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.421 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 2.055 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[31mFailed to compile build :app from ["src/cljs" "src/cljc" "env/dev/cljs"] in 0.657 seconds.[0m
+[36m----  Could not Read  src/cljs/kramaos/components/kosmos.cljs   line:23 ----[0m
+
+  [1m/home/koompi/projects/kramaos/kramaos-reagent/src/cljs/kramaos/components/kosmos.cljs [line 23, col 22] Unmatched delimiter ).[0m
+
+  [36m22[0m  [36m; (titleDesc  "Before you leave, please read below note from KOSMOS team"[0m
+  [33m23[0m  [1m            "") [0m
+  [0m  [0m  [33m            /home/koompi/projects/kramaos/kramaos-reagent/src/cljs/kramaos/components/kosmos.cljs [line 23, col 22] Unmatched delimiter ).[0m
+  [36m24[0m  [36m   [:div.ui.container.kosmosConent[0m
+  [36m25[0m  [36m      [:h1 "Before you leave, please read below note from KOSMOS team"][0m
+
+[36m----  Reader Error : Please see src/cljs/kramaos/components/kosmos.cljs  ----[0m
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.511 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.572 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.589 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.478 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.281 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.329 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[31mFailed to compile build :app from ["src/cljs" "src/cljc" "env/dev/cljs"] in 0.725 seconds.[0m
+[36m----  Could not Read  src/cljs/kramaos/components/kosmos.cljs   line:34 ----[0m
+
+  [1m/home/koompi/projects/kramaos/kramaos-reagent/src/cljs/kramaos/components/kosmos.cljs [line 34, col 54] The map literal starting with href on line 34 column 48 contains 1 form(s). Map literals must contain an even number of forms.[0m
+
+  [36m32[0m  [36m      [:p "For office and administration work, KOSMOS comes with a suite of Libreoffice. However v2.0 also included Microsoft Office Online Desktop Apps to let the users take advantage of their OneDrive and the flavor of MS Office in their most powerful Linux desktop. "][0m
+  [36m33[0m  [36m      [:p "Thank you for stopping by KOSMOS. We hope you are enjoying it, as much as we are making it. Please feel free to share to your love one, give us feedback, and contribute to KOSMOS on Github."][0m
+  [33m34[0m  [1m      [:p "Join our community forum at "[:a {href}]" " [:br] " Or join our telegram community https://t.me/kramaos"][0m
+  [0m  [0m  [33m      /home/koompi/projects/kramaos/kramaos-reagent/src/cljs/kramaos/components/kosmos.cljs [line 34, col 54] The map literal starting with href on line 34 column 48 contains 1 form(s). Map literals must contain an even number of forms.[0m
+  [36m35[0m  [36m      [:p "Happy computing!"][0m
+  [36m36[0m  [36m   [:p "KOSMOS/KramaOS Team"]][0m
+  [36m37[0m  [36m])[0m
+
+[36m----  Reader Error : Please see src/cljs/kramaos/components/kosmos.cljs  ----[0m
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[31mFailed to compile build :app from ["src/cljs" "src/cljc" "env/dev/cljs"] in 0.707 seconds.[0m
+[36m----  Could not Read  src/cljs/kramaos/components/kosmos.cljs   line:34 ----[0m
+
+  [1m/home/koompi/projects/kramaos/kramaos-reagent/src/cljs/kramaos/components/kosmos.cljs [line 34, col 55] The map literal starting with :href on line 34 column 48 contains 1 form(s). Map literals must contain an even number of forms.[0m
+
+  [36m32[0m  [36m      [:p "For office and administration work, KOSMOS comes with a suite of Libreoffice. However v2.0 also included Microsoft Office Online Desktop Apps to let the users take advantage of their OneDrive and the flavor of MS Office in their most powerful Linux desktop. "][0m
+  [36m33[0m  [36m      [:p "Thank you for stopping by KOSMOS. We hope you are enjoying it, as much as we are making it. Please feel free to share to your love one, give us feedback, and contribute to KOSMOS on Github."][0m
+  [33m34[0m  [1m      [:p "Join our community forum at "[:a {:href}]" " [:br] " Or join our telegram community https://t.me/kramaos"][0m
+  [0m  [0m  [33m      /home/koompi/projects/kramaos/kramaos-reagent/src/cljs/kramaos/components/kosmos.cljs [line 34, col 55] The map literal starting with :href on line 34 column 48 contains 1 form(s). Map literals must contain an even number of forms.[0m
+  [36m35[0m  [36m      [:p "Happy computing!"][0m
+  [36m36[0m  [36m   [:p "KOSMOS/KramaOS Team"]][0m
+  [36m37[0m  [36m])[0m
+
+[36m----  Reader Error : Please see src/cljs/kramaos/components/kosmos.cljs  ----[0m
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.162 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[31mFailed to compile build :app from ["src/cljs" "src/cljc" "env/dev/cljs"] in 0.643 seconds.[0m
+[36m----  Could not Read  src/cljs/kramaos/components/kosmos.cljs   line:34 ----[0m
+
+  [1m/home/koompi/projects/kramaos/kramaos-reagent/src/cljs/kramaos/components/kosmos.cljs [line 34, col 109] Invalid symbol: https://forum.kramaos.org.[0m
+
+  [36m32[0m  [36m      [:p "For office and administration work, KOSMOS comes with a suite of Libreoffice. However v2.0 also included Microsoft Office Online Desktop Apps to let the users take advantage of their OneDrive and the flavor of MS Office in their most powerful Linux desktop. "][0m
+  [36m33[0m  [36m      [:p "Thank you for stopping by KOSMOS. We hope you are enjoying it, as much as we are making it. Please feel free to share to your love one, give us feedback, and contribute to KOSMOS on Github."][0m
+  [33m34[0m  [1m      [:p "Join our community forum at "[:a {:href "https://forum.kramaos.org"} https://forum.kramaos.org]" " [:br] " Or join our telegram community https://t.me/kramaos"][0m
+  [0m  [0m  [33m      /home/koompi/projects/kramaos/kramaos-reagent/src/cljs/kramaos/components/kosmos.cljs [line 34, col 109] Invalid symbol: https://forum.kramaos.org.[0m
+  [36m35[0m  [36m      [:p "Happy computing!"][0m
+  [36m36[0m  [36m   [:p "KOSMOS/KramaOS Team"]][0m
+  [36m37[0m  [36m])[0m
+
+[36m----  Reader Error : Please see src/cljs/kramaos/components/kosmos.cljs  ----[0m
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.069 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.212 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[31mFailed to compile build :app from ["src/cljs" "src/cljc" "env/dev/cljs"] in 0.965 seconds.[0m
+[36m----  Could not Read  src/cljs/kramaos/components/kosmos.cljs   line:34 ----[0m
+
+  [1m/home/koompi/projects/kramaos/kramaos-reagent/src/cljs/kramaos/components/kosmos.cljs [line 34, col 56] The map literal starting with :href on line 34 column 48 contains 1 form(s). Map literals must contain an even number of forms.[0m
+
+  [36m32[0m  [36m      [:p "For office and administration work, KOSMOS comes with a suite of Libreoffice. However v2.0 also included Microsoft Office Online Desktop Apps to let the users take advantage of their OneDrive and the flavor of MS Office in their most powerful Linux desktop. "][0m
+  [36m33[0m  [36m      [:p "Thank you for stopping by KOSMOS. We hope you are enjoying it, as much as we are making it. Please feel free to share to your love one, give us feedback, and contribute to KOSMOS on Github."][0m
+  [33m34[0m  [1m      [:p "Join our community forum at "[:a {:href }]" " [:br] " Or join our telegram community https://t.me/kramaos"][0m
+  [0m  [0m  [33m      /home/koompi/projects/kramaos/kramaos-reagent/src/cljs/kramaos/components/kosmos.cljs [line 34, col 56] The map literal starting with :href on line 34 column 48 contains 1 form(s). Map literals must contain an even number of forms.[0m
+  [36m35[0m  [36m      [:p "Happy computing!"][0m
+  [36m36[0m  [36m   [:p "KOSMOS/KramaOS Team"]][0m
+  [36m37[0m  [36m])[0m
+
+[36m----  Reader Error : Please see src/cljs/kramaos/components/kosmos.cljs  ----[0m
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[31mFailed to compile build :app from ["src/cljs" "src/cljc" "env/dev/cljs"] in 0.7 seconds.[0m
+[36m----  Could not Read  src/cljs/kramaos/components/kosmos.cljs   line:34 ----[0m
+
+  [1m/home/koompi/projects/kramaos/kramaos-reagent/src/cljs/kramaos/components/kosmos.cljs [line 34, col 82] Invalid symbol: https://forum.kramaos.org'.[0m
+
+  [36m32[0m  [36m      [:p "For office and administration work, KOSMOS comes with a suite of Libreoffice. However v2.0 also included Microsoft Office Online Desktop Apps to let the users take advantage of their OneDrive and the flavor of MS Office in their most powerful Linux desktop. "][0m
+  [36m33[0m  [36m      [:p "Thank you for stopping by KOSMOS. We hope you are enjoying it, as much as we are making it. Please feel free to share to your love one, give us feedback, and contribute to KOSMOS on Github."][0m
+  [33m34[0m  [1m      [:p "Join our community forum at "[:a {:href 'https://forum.kramaos.org'}]" " [:br] " Or join our telegram community https://t.me/kramaos"][0m
+  [0m  [0m  [33m      /home/koompi/projects/kramaos/kramaos-reagent/src/cljs/kramaos/components/kosmos.cljs [line 34, col 82] Invalid symbol: https://forum.kramaos.org'.[0m
+  [36m35[0m  [36m      [:p "Happy computing!"][0m
+  [36m36[0m  [36m   [:p "KOSMOS/KramaOS Team"]][0m
+  [36m37[0m  [36m])[0m
+
+[36m----  Reader Error : Please see src/cljs/kramaos/components/kosmos.cljs  ----[0m
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[31mFailed to compile build :app from ["src/cljs" "src/cljc" "env/dev/cljs"] in 0.803 seconds.[0m
+[36m----  Could not Read  src/cljs/kramaos/components/kosmos.cljs   line:34 ----[0m
+
+  [1m/home/koompi/projects/kramaos/kramaos-reagent/src/cljs/kramaos/components/kosmos.cljs [line 34, col 82] Invalid symbol: https://forum.kramaos.org'.[0m
+
+  [36m32[0m  [36m      [:p "For office and administration work, KOSMOS comes with a suite of Libreoffice. However v2.0 also included Microsoft Office Online Desktop Apps to let the users take advantage of their OneDrive and the flavor of MS Office in their most powerful Linux desktop. "][0m
+  [36m33[0m  [36m      [:p "Thank you for stopping by KOSMOS. We hope you are enjoying it, as much as we are making it. Please feel free to share to your love one, give us feedback, and contribute to KOSMOS on Github."][0m
+  [33m34[0m  [1m      [:p "Join our community forum at "[:a {:href 'https://forum.kramaos.org'}]" " [:br] " Or join our telegram community https://t.me/kramaos"][0m
+  [0m  [0m  [33m      /home/koompi/projects/kramaos/kramaos-reagent/src/cljs/kramaos/components/kosmos.cljs [line 34, col 82] Invalid symbol: https://forum.kramaos.org'.[0m
+  [36m35[0m  [36m      [:p "Happy computing!"][0m
+  [36m36[0m  [36m   [:p "KOSMOS/KramaOS Team"]][0m
+  [36m37[0m  [36m])[0m
+
+[36m----  Reader Error : Please see src/cljs/kramaos/components/kosmos.cljs  ----[0m
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[31mFailed to compile build :app from ["src/cljs" "src/cljc" "env/dev/cljs"] in 0.704 seconds.[0m
+[36m----  Could not Read  src/cljs/kramaos/components/kosmos.cljs   line:34 ----[0m
+
+  [1m/home/koompi/projects/kramaos/kramaos-reagent/src/cljs/kramaos/components/kosmos.cljs [line 34, col 82] Invalid symbol: https://forum.kramaos.org'.[0m
+
+  [36m32[0m  [36m      [:p "For office and administration work, KOSMOS comes with a suite of Libreoffice. However v2.0 also included Microsoft Office Online Desktop Apps to let the users take advantage of their OneDrive and the flavor of MS Office in their most powerful Linux desktop. "][0m
+  [36m33[0m  [36m      [:p "Thank you for stopping by KOSMOS. We hope you are enjoying it, as much as we are making it. Please feel free to share to your love one, give us feedback, and contribute to KOSMOS on Github."][0m
+  [33m34[0m  [1m      [:p "Join our community forum at "[:a {:href 'https://forum.kramaos.org'}]" " [:br] " Or join our telegram community https://t.me/kramaos"][0m
+  [0m  [0m  [33m      /home/koompi/projects/kramaos/kramaos-reagent/src/cljs/kramaos/components/kosmos.cljs [line 34, col 82] Invalid symbol: https://forum.kramaos.org'.[0m
+  [36m35[0m  [36m      [:p "Happy computing!"][0m
+  [36m36[0m  [36m   [:p "KOSMOS/KramaOS Team"]][0m
+  [36m37[0m  [36m])[0m
+
+[36m----  Reader Error : Please see src/cljs/kramaos/components/kosmos.cljs  ----[0m
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.017 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[31mFailed to compile build :app from ["src/cljs" "src/cljc" "env/dev/cljs"] in 0.64 seconds.[0m
+[36m----  Could not Read  src/cljs/kramaos/components/kosmos.cljs   line:34 ----[0m
+
+  [1m/home/koompi/projects/kramaos/kramaos-reagent/src/cljs/kramaos/components/kosmos.cljs [line 34, col 82] Invalid symbol: https://forum.kramaos.org'.[0m
+
+  [36m32[0m  [36m      [:p "For office and administration work, KOSMOS comes with a suite of Libreoffice. However v2.0 also included Microsoft Office Online Desktop Apps to let the users take advantage of their OneDrive and the flavor of MS Office in their most powerful Linux desktop. "][0m
+  [36m33[0m  [36m      [:p "Thank you for stopping by KOSMOS. We hope you are enjoying it, as much as we are making it. Please feel free to share to your love one, give us feedback, and contribute to KOSMOS on Github."][0m
+  [33m34[0m  [1m      [:p "Join our community forum at "[:a {:href 'https://forum.kramaos.org'} https://forum.kramaos.org]" " [:br] " Or join our telegram community https://t.me/kramaos"][0m
+  [0m  [0m  [33m      /home/koompi/projects/kramaos/kramaos-reagent/src/cljs/kramaos/components/kosmos.cljs [line 34, col 82] Invalid symbol: https://forum.kramaos.org'.[0m
+  [36m35[0m  [36m      [:p "Happy computing!"][0m
+  [36m36[0m  [36m   [:p "KOSMOS/KramaOS Team"]][0m
+  [36m37[0m  [36m])[0m
+
+[36m----  Reader Error : Please see src/cljs/kramaos/components/kosmos.cljs  ----[0m
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[31mFailed to compile build :app from ["src/cljs" "src/cljc" "env/dev/cljs"] in 0.727 seconds.[0m
+[36m----  Could not Read  src/cljs/kramaos/components/kosmos.cljs   line:34 ----[0m
+
+  [1m/home/koompi/projects/kramaos/kramaos-reagent/src/cljs/kramaos/components/kosmos.cljs [line 34, col 56] The map literal starting with :href on line 34 column 48 contains 1 form(s). Map literals must contain an even number of forms.[0m
+
+  [36m32[0m  [36m      [:p "For office and administration work, KOSMOS comes with a suite of Libreoffice. However v2.0 also included Microsoft Office Online Desktop Apps to let the users take advantage of their OneDrive and the flavor of MS Office in their most powerful Linux desktop. "][0m
+  [36m33[0m  [36m      [:p "Thank you for stopping by KOSMOS. We hope you are enjoying it, as much as we are making it. Please feel free to share to your love one, give us feedback, and contribute to KOSMOS on Github."][0m
+  [33m34[0m  [1m      [:p "Join our community forum at "[:a {:href }]" " [:br] " Or join our telegram community https://t.me/kramaos"][0m
+  [0m  [0m  [33m      /home/koompi/projects/kramaos/kramaos-reagent/src/cljs/kramaos/components/kosmos.cljs [line 34, col 56] The map literal starting with :href on line 34 column 48 contains 1 form(s). Map literals must contain an even number of forms.[0m
+  [36m35[0m  [36m      [:p "Happy computing!"][0m
+  [36m36[0m  [36m   [:p "KOSMOS/KramaOS Team"]][0m
+  [36m37[0m  [36m])[0m
+
+[36m----  Reader Error : Please see src/cljs/kramaos/components/kosmos.cljs  ----[0m
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[31mFailed to compile build :app from ["src/cljs" "src/cljc" "env/dev/cljs"] in 0.703 seconds.[0m
+[36m----  Could not Read  src/cljs/kramaos/components/kosmos.cljs   line:34 ----[0m
+
+  [1m/home/koompi/projects/kramaos/kramaos-reagent/src/cljs/kramaos/components/kosmos.cljs [line 34, col 57] The map literal starting with :href on line 34 column 49 contains 1 form(s). Map literals must contain an even number of forms.[0m
+
+  [36m32[0m  [36m      [:p "For office and administration work, KOSMOS comes with a suite of Libreoffice. However v2.0 also included Microsoft Office Online Desktop Apps to let the users take advantage of their OneDrive and the flavor of MS Office in their most powerful Linux desktop. "][0m
+  [36m33[0m  [36m      [:p "Thank you for stopping by KOSMOS. We hope you are enjoying it, as much as we are making it. Please feel free to share to your love one, give us feedback, and contribute to KOSMOS on Github."][0m
+  [33m34[0m  [1m      [:p "Join our community forum at " [:a {:href }]" " [:br] " Or join our telegram community https://t.me/kramaos"][0m
+  [0m  [0m  [33m      /home/koompi/projects/kramaos/kramaos-reagent/src/cljs/kramaos/components/kosmos.cljs [line 34, col 57] The map literal starting with :href on line 34 column 49 contains 1 form(s). Map literals must contain an even number of forms.[0m
+  [36m35[0m  [36m      [:p "Happy computing!"][0m
+  [36m36[0m  [36m   [:p "KOSMOS/KramaOS Team"]][0m
+  [36m37[0m  [36m])[0m
+
+[36m----  Reader Error : Please see src/cljs/kramaos/components/kosmos.cljs  ----[0m
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[31mFailed to compile build :app from ["src/cljs" "src/cljc" "env/dev/cljs"] in 0.66 seconds.[0m
+[36m----  Could not Read  src/cljs/kramaos/components/kosmos.cljs   line:34 ----[0m
+
+  [1m/home/koompi/projects/kramaos/kramaos-reagent/src/cljs/kramaos/components/kosmos.cljs [line 34, col 57] The map literal starting with :href on line 34 column 49 contains 1 form(s). Map literals must contain an even number of forms.[0m
+
+  [36m32[0m  [36m      [:p "For office and administration work, KOSMOS comes with a suite of Libreoffice. However v2.0 also included Microsoft Office Online Desktop Apps to let the users take advantage of their OneDrive and the flavor of MS Office in their most powerful Linux desktop. "][0m
+  [36m33[0m  [36m      [:p "Thank you for stopping by KOSMOS. We hope you are enjoying it, as much as we are making it. Please feel free to share to your love one, give us feedback, and contribute to KOSMOS on Github."][0m
+  [33m34[0m  [1m      [:p "Join our community forum at " [:a {:href }] " " [:br] " Or join our telegram community https://t.me/kramaos"][0m
+  [0m  [0m  [33m      /home/koompi/projects/kramaos/kramaos-reagent/src/cljs/kramaos/components/kosmos.cljs [line 34, col 57] The map literal starting with :href on line 34 column 49 contains 1 form(s). Map literals must contain an even number of forms.[0m
+  [36m35[0m  [36m      [:p "Happy computing!"][0m
+  [36m36[0m  [36m   [:p "KOSMOS/KramaOS Team"]][0m
+  [36m37[0m  [36m])[0m
+
+[36m----  Reader Error : Please see src/cljs/kramaos/components/kosmos.cljs  ----[0m
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[31mFailed to compile build :app from ["src/cljs" "src/cljc" "env/dev/cljs"] in 0.695 seconds.[0m
+[36m----  Could not Read  src/cljs/kramaos/components/kosmos.cljs   line:34 ----[0m
+
+  [1m/home/koompi/projects/kramaos/kramaos-reagent/src/cljs/kramaos/components/kosmos.cljs [line 34, col 57] The map literal starting with :href on line 34 column 49 contains 1 form(s). Map literals must contain an even number of forms.[0m
+
+  [36m32[0m  [36m      [:p "For office and administration work, KOSMOS comes with a suite of Libreoffice. However v2.0 also included Microsoft Office Online Desktop Apps to let the users take advantage of their OneDrive and the flavor of MS Office in their most powerful Linux desktop. "][0m
+  [36m33[0m  [36m      [:p "Thank you for stopping by KOSMOS. We hope you are enjoying it, as much as we are making it. Please feel free to share to your love one, give us feedback, and contribute to KOSMOS on Github."][0m
+  [33m34[0m  [1m      [:p "Join our community forum at " [:a {:href } ] " " [:br] " Or join our telegram community https://t.me/kramaos"][0m
+  [0m  [0m  [33m      /home/koompi/projects/kramaos/kramaos-reagent/src/cljs/kramaos/components/kosmos.cljs [line 34, col 57] The map literal starting with :href on line 34 column 49 contains 1 form(s). Map literals must contain an even number of forms.[0m
+  [36m35[0m  [36m      [:p "Happy computing!"][0m
+  [36m36[0m  [36m   [:p "KOSMOS/KramaOS Team"]][0m
+  [36m37[0m  [36m])[0m
+
+[36m----  Reader Error : Please see src/cljs/kramaos/components/kosmos.cljs  ----[0m
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[31mFailed to compile build :app from ["src/cljs" "src/cljc" "env/dev/cljs"] in 0.695 seconds.[0m
+[36m----  Could not Read  src/cljs/kramaos/components/kosmos.cljs   line:34 ----[0m
+
+  [1m/home/koompi/projects/kramaos/kramaos-reagent/src/cljs/kramaos/components/kosmos.cljs [line 34, col 58] The map literal starting with :href on line 34 column 49 contains 1 form(s). Map literals must contain an even number of forms.[0m
+
+  [36m32[0m  [36m      [:p "For office and administration work, KOSMOS comes with a suite of Libreoffice. However v2.0 also included Microsoft Office Online Desktop Apps to let the users take advantage of their OneDrive and the flavor of MS Office in their most powerful Linux desktop. "][0m
+  [36m33[0m  [36m      [:p "Thank you for stopping by KOSMOS. We hope you are enjoying it, as much as we are making it. Please feel free to share to your love one, give us feedback, and contribute to KOSMOS on Github."][0m
+  [33m34[0m  [1m      [:p "Join our community forum at " [:a {:href  } ] " " [:br] " Or join our telegram community https://t.me/kramaos"][0m
+  [0m  [0m  [33m      /home/koompi/projects/kramaos/kramaos-reagent/src/cljs/kramaos/components/kosmos.cljs [line 34, col 58] The map literal starting with :href on line 34 column 49 contains 1 form(s). Map literals must contain an even number of forms.[0m
+  [36m35[0m  [36m      [:p "Happy computing!"][0m
+  [36m36[0m  [36m   [:p "KOSMOS/KramaOS Team"]][0m
+  [36m37[0m  [36m])[0m
+
+[36m----  Reader Error : Please see src/cljs/kramaos/components/kosmos.cljs  ----[0m
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.199 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.208 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.251 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.154 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.225 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.511 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.325 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.682 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.214 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.251 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.223 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.234 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.4 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.232 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.261 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[31mFailed to compile build :app from ["src/cljs" "src/cljc" "env/dev/cljs"] in 0.693 seconds.[0m
+[36m----  Could not Read  src/cljs/kramaos/components/kosmos.cljs   line:34 ----[0m
+
+  [1m/home/koompi/projects/kramaos/kramaos-reagent/src/cljs/kramaos/components/kosmos.cljs [line 34, col 219] The map literal starting with :href on line 34 column 181 contains 3 form(s). Map literals must contain an even number of forms.[0m
+
+  [36m32[0m  [36m      [:p "For office and administration work, KOSMOS comes with a suite of Libreoffice. However v2.0 also included Microsoft Office Online Desktop Apps to let the users take advantage of their OneDrive and the flavor of MS Office in their most powerful Linux desktop. "][0m
+  [36m33[0m  [36m      [:p "Thank you for stopping by KOSMOS. We hope you are enjoying it, as much as we are making it. Please feel free to share to your love one, give us feedback, and contribute to KOSMOS on Github."][0m
+  [33m34[0m  [1m      [:p "Join our community forum at " [:a {:href "https://forum.kramaos.org" :target "_blank" } "https://forum.kramaos.org" ] " " [:br] " Or join our telegram community" [:a {:href "https://t.me/kramaos" :target} "https://t.me/kramaos"]][0m
+  [0m  [0m  [33m      /home/koompi/projects/kramaos/kramaos-reagent/src/cljs/kramaos/components/kosmos.cljs [line 34, col 219] The map literal starting with :href on line 34 column 181 contains 3 form(s). Map literals must contain an even number of forms.[0m
+  [36m35[0m  [36m      [:p "Happy computing!"][0m
+  [36m36[0m  [36m   [:p "KOSMOS/KramaOS Team"]][0m
+  [36m37[0m  [36m])[0m
+
+[36m----  Reader Error : Please see src/cljs/kramaos/components/kosmos.cljs  ----[0m
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[31mFailed to compile build :app from ["src/cljs" "src/cljc" "env/dev/cljs"] in 0.707 seconds.[0m
+[36m----  Could not Read  src/cljs/kramaos/components/kosmos.cljs   line:34 ----[0m
+
+  [1m/home/koompi/projects/kramaos/kramaos-reagent/src/cljs/kramaos/components/kosmos.cljs [line 34, col 220] The map literal starting with :href on line 34 column 181 contains 3 form(s). Map literals must contain an even number of forms.[0m
+
+  [36m32[0m  [36m      [:p "For office and administration work, KOSMOS comes with a suite of Libreoffice. However v2.0 also included Microsoft Office Online Desktop Apps to let the users take advantage of their OneDrive and the flavor of MS Office in their most powerful Linux desktop. "][0m
+  [36m33[0m  [36m      [:p "Thank you for stopping by KOSMOS. We hope you are enjoying it, as much as we are making it. Please feel free to share to your love one, give us feedback, and contribute to KOSMOS on Github."][0m
+  [33m34[0m  [1m      [:p "Join our community forum at " [:a {:href "https://forum.kramaos.org" :target "_blank" } "https://forum.kramaos.org" ] " " [:br] " Or join our telegram community" [:a {:href "https://t.me/kramaos" :target } "https://t.me/kramaos"]][0m
+  [0m  [0m  [33m      /home/koompi/projects/kramaos/kramaos-reagent/src/cljs/kramaos/components/kosmos.cljs [line 34, col 220] The map literal starting with :href on line 34 column 181 contains 3 form(s). Map literals must contain an even number of forms.[0m
+  [36m35[0m  [36m      [:p "Happy computing!"][0m
+  [36m36[0m  [36m   [:p "KOSMOS/KramaOS Team"]][0m
+  [36m37[0m  [36m])[0m
+
+[36m----  Reader Error : Please see src/cljs/kramaos/components/kosmos.cljs  ----[0m
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.278 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/kosmos.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.219 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/core.js
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.353 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/footer.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.189 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/footer.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.343 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/footer.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.461 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/footer.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.284 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/footer.js
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.474 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/index.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.48 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/index.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.441 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/index.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[31mFailed to compile build :app from ["src/cljs" "src/cljc" "env/dev/cljs"] in 0.718 seconds.[0m
+[36m----  Could not Read  src/cljs/kramaos/components/index.cljs   line:63 ----[0m
+
+  [1m/home/koompi/projects/kramaos/kramaos-reagent/src/cljs/kramaos/components/index.cljs [line 63, col 16] Unmatched delimiter ].[0m
+
+  [36m61[0m  [36m        [:p {:class "bySomeOne"} "By: Koompi"]]]])[0m
+  [36m62[0m  [36m(vals @blog-atom))]]][0m
+  [33m63[0m  [1m])[0m
+  [0m  [0m  [33m/home/koompi/projects/kramaos/kramaos-reagent/src/cljs/kramaos/components/index.cljs [line 63, col 16] Unmatched delimiter ].[0m
+
+[36m----  Reader Error : Please see src/cljs/kramaos/components/index.cljs  ----[0m
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.234 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/index.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.262 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/index.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.134 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/index.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.255 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/index.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.234 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/index.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.438 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/index.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[31mFailed to compile build :app from ["src/cljs" "src/cljc" "env/dev/cljs"] in 0.802 seconds.[0m
+[36m----  Could not Read  src/cljs/kramaos/components/index.cljs   line:61 ----[0m
+
+  [1m/home/koompi/projects/kramaos/kramaos-reagent/src/cljs/kramaos/components/index.cljs [line 61, col 52] Invalid symbol: By:.[0m
+
+  [36m59[0m  [36m        [:h4 (:title blog)][0m
+  [36m60[0m  [36m        [:p (:desc blog)][0m
+  [33m61[0m  [1m        [:p {:class "bySomeOne"} "By: Koompi"]]]])[0m
+  [0m  [0m  [33m        /home/koompi/projects/kramaos/kramaos-reagent/src/cljs/kramaos/components/index.cljs [line 61, col 52] Invalid symbol: By:.[0m
+  [36m62[0m  [36m(vals @blog-atom))]][0m
+  [36m63[0m  [36m])[0m
+
+[36m----  Reader Error : Please see src/cljs/kramaos/components/index.cljs  ----[0m
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.386 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/index.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[31mFailed to compile build :app from ["src/cljs" "src/cljc" "env/dev/cljs"] in 0.759 seconds.[0m
+[36m----  Could not Read  src/cljs/kramaos/components/index.cljs   line:62 ----[0m
+
+  [1m/home/koompi/projects/kramaos/kramaos-reagent/src/cljs/kramaos/components/index.cljs [line 62, col 16] Unmatched delimiter ].[0m
+
+  [36m60[0m  [36m        [:p {:class "bySomeOne"} "By: Koompi"]]]])[0m
+  [36m61[0m  [36m(vals @blog-atom))]][0m
+  [33m62[0m  [1m])[0m
+  [0m  [0m  [33m/home/koompi/projects/kramaos/kramaos-reagent/src/cljs/kramaos/components/index.cljs [line 62, col 16] Unmatched delimiter ].[0m
+
+[36m----  Reader Error : Please see src/cljs/kramaos/components/index.cljs  ----[0m
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.376 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/index.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.419 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/index.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.356 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/index.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[31mFailed to compile build :app from ["src/cljs" "src/cljc" "env/dev/cljs"] in 0.924 seconds.[0m
+[36m----  Could not Read  src/cljs/kramaos/components/index.cljs   line:62 ----[0m
+
+  [1m/home/koompi/projects/kramaos/kramaos-reagent/src/cljs/kramaos/components/index.cljs [line 62, col 17] Unmatched delimiter ).[0m
+
+  [36m60[0m  [36m        [:p {:class "bySomeOne"} "By: Koompi"]]]])[0m
+  [36m61[0m  [36m(vals @blog-atom))]][0m
+  [33m62[0m  [1m])[0m
+  [0m  [0m  [33m/home/koompi/projects/kramaos/kramaos-reagent/src/cljs/kramaos/components/index.cljs [line 62, col 17] Unmatched delimiter ).[0m
+
+[36m----  Reader Error : Please see src/cljs/kramaos/components/index.cljs  ----[0m
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.367 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/index.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.365 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/index.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.425 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/index.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.182 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/components/index.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.375 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/data/blogs.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.275 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/data/blogs.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.192 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/data/blogs.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.255 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/kramaos/data/blogs.js

@@ -79,7 +79,7 @@
 .bannerTitle{
     color: #ffffff;
     text-transform: inherit;
-    font-size: 60px;
+    font-size: 40px;
     padding-top: 10% !important;
 
 }
@@ -114,7 +114,7 @@
 }
 .blur p {
     font-size: 16px;
-    text-align: left;
+    text-align: center;
 }
 a{
   color: #333;
@@ -155,6 +155,7 @@ a:hover{
 }
 .footer{
     margin-top: 50px !important;
+    padding: 40px 0px !important;
 }
 .ui.secondary.menu .dropdown.item:hover, .ui.secondary.menu .link.item:hover{
     background: rgba(0,0,0,.05);
@@ -164,7 +165,7 @@ a:hover{
     color: #ac86fc;
 }
 .ui.secondary.menu a.item:hover {
-    background: rgba(0,0,0,.05);
+    background: #4d276d;
     color: transparent;
 }
 .ui.secondary.menu .dropdown.item:hover {
@@ -219,6 +220,9 @@ a:hover{
   text-align: center;
   color: #ffffff;
 }
+.kosmosCenter img{
+  margin-top: 15%;
+}
 .contentCenter .tutorialCenter{
   margin: 0;
   position: absolute;
@@ -252,10 +256,13 @@ a:hover{
   color: #3f1f60;
   font-size: 36px;
   margin: 0px;
+  padding: 0px 11%;
 }
 .kosmosConent p{
-  padding: 40px 10%;
+  padding: 4px 15%;
   font-size: 18px;
+  margin-top: 25px;
+  text-align: left
 }
 .ui.menu span {
   color: #b0b0b1;
@@ -537,6 +544,12 @@ a:hover{
       padding-left: 0px;
       text-align: left;
   }
+  .kosmosConent p{
+    padding: 4px 15%;
+    font-size: 18px;
+    margin-top: 5px;
+    text-align: left
+  }
   .bannerDescription {
     padding-left: 0px;
     text-align: left;
@@ -665,7 +678,7 @@ a:hover{
     margin: 0px;
   }
   .kosmosConent p {
-    padding: 15px 0px;
+    padding: 5px 0px;
     font-size: 18px;
     text-align: left;
   }
